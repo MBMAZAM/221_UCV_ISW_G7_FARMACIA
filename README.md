@@ -1,30 +1,9 @@
-# README #
+# FACULTAD DE INGENIERÍA Y ARQUITECTURA ESCUELA PROFESIONAL DE INGENIERÍA DE SISTEMAS
 
-Hola como estan todos?.dasdasdsadsadsa
-Graciasgit
+## Distribución, instalación y beneficios del mercado de redes internas del Gas Natural en Lima y Callao. 2022
 
-### What is this repository for? ###
+### DOCENTE: RICHARD LEONARDO BERROCAL NAVARRO
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
-### How do I get set up? ###
 
-* Summary of set upg
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
 
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact

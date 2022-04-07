@@ -11,9 +11,14 @@
 fasdasdasssssss [hola] dsadasdasdas [hola] dasdasdas [hola] 
 
 * Maza Huamani Mauricio Brayar
+<<<<<<< HEAD
 * miguel 
 
 [Youtube](https://www.youtube.com/)
 
+=======
+* Juarez Morales Miguel Alonso
+* Ibáñez Del Aguila, Kriss Zuzú
+>>>>>>> bc28a044606e54483dde86dcc53934ea241e1fba
 
 [hola]: https://www.youtube.com/

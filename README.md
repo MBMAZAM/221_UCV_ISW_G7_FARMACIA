@@ -10,5 +10,5 @@
 
 * Maza Huamani Mauricio Brayar
 * Juarez Morales Miguel Alonso
-
+* Ibáñez Del Aguila, Kriss Zuzú
 

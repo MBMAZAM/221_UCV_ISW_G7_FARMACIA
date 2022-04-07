@@ -9,6 +9,6 @@
 #### EQUIPO Nro. 7
 
 * Maza Huamani Mauricio Brayar
-* miguel khjkhkhkjhj
+* Juarez Morales Miguel Alonso
 
 

@@ -8,17 +8,12 @@
 
 #### EQUIPO Nro. 7
 
-fasdasdasssssss [hola] dsadasdasdas [hola] dasdasdas [hola] 
-
 * Maza Huamani Mauricio Brayar
 * Juarez Morales Miguel Alonso
 * Ibáñez Del Aguila, Kriss Zuzú
 
+Hola como `fasdas`
 
-[Youtube](https://www.youtube.com/)
-
-
-
-
-
-[hola]: https://www.youtube.com/
+```python
+print ("Hola Mundo")
+```

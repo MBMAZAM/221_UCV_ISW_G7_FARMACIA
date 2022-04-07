@@ -1,4 +1,4 @@
-![text alt](https://ucv.blackboard.com/branding/_1_1/loginLogo/CustomLoginLogo.png?m=k9sq4hbz)
+![Logo UCV](https://ucv.blackboard.com/branding/_1_1/loginLogo/CustomLoginLogo.png?m=k9sq4hbz)
 
 # FACULTAD DE INGENIERÍA Y ARQUITECTURA ESCUELA PROFESIONAL DE INGENIERÍA DE SISTEMAS
 
@@ -8,7 +8,12 @@
 
 #### EQUIPO Nro. 7
 
+fasdasdasssssss [hola] dsadasdasdas [hola] dasdasdas [hola] 
+
 * Maza Huamani Mauricio Brayar
-* miguel khjkhkhkjhj
+* miguel 
+
+[Youtube](https://www.youtube.com/)
 
 
+[hola]: https://www.youtube.com/

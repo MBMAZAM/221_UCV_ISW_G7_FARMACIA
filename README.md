@@ -22,12 +22,13 @@
 # INDICE
 
 1. ASPECTOS DE LA ORGANIZACIÓN
-    1 .1.VISIÓN 
-    2 .2.MISIÓN
-    3 .3.OBJETIVOS
-    4 .4.ANTECEDENTES
-    5 .5.ORGANIGRAMA
-    6 .6.AMBITO DEL PROYECTO
+  
+  1. 1.VISIÓN 
+    2. 2.MISIÓN
+    3. 3.OBJETIVOS
+    4. 4.ANTECEDENTES
+    5. 5.ORGANIGRAMA
+    6. 6.AMBITO DEL PROYECTO
        1. 6.1. Área 
        2. 6.2. Recursos Humanos
        3. 6.3. Software

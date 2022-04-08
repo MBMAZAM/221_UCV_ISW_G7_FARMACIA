@@ -6,15 +6,35 @@
 
 ### DOCENTE: RICHARD LEONARDO BERROCAL NAVARRO
 
-#### EQUIPO Nro. 7
+## EQUIPO Nro. 7
 
 * Maza Huamani Mauricio Brayar
 * Juarez Morales Miguel Alonso
 * Ibáñez Del Aguila, Kriss Zuzú
 * Encalada Jara Debbis santi
 
-Hola como `fasdas`
+    **PERÚ**
 
-```python
-print ("Hola Mundo")
-```
+    2022
+
+# INTRODUCCIÓN
+
+# INDICE
+
+1. ASPECTOS DE LA ORGANIZACIÓN
+    1. 1.VISIÓN 
+    2. 2.MISIÓN
+    3. 3.OBJETIVOS
+    4. 4.ANTECEDENTES
+    5. 5.ORGANIGRAMA
+    6. 6.AMBITO DEL PROYECTO
+       1. 6.1. Área 
+       2. 6.2. Recursos Humanos
+       3. 6.3. Software
+       4. 6.4. Hardware
+       5. 6.5. Cronograma de Actividades  
+2. ASPECTOS DEL NEGOCIO
+   
+   2. 1 PROBLEMÁTICA ACTUAL ó ANÁLISIS SITUACIONAL
+   
+

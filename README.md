@@ -22,6 +22,7 @@
 # INDICE
 
 1. ASPECTOS DE LA ORGANIZACIÓN
+  
     1. 1.VISIÓN 
     2. 2.MISIÓN
     3. 3.OBJETIVOS
@@ -33,6 +34,7 @@
        3. 6.3. Software
        4. 6.4. Hardware
        5. 6.5. Cronograma de Actividades  
+       
 2. ASPECTOS DEL NEGOCIO
    
    2. 1 PROBLEMÁTICA ACTUAL ó ANÁLISIS SITUACIONAL

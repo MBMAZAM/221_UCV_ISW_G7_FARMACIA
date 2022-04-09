@@ -19,6 +19,14 @@
 
 # INTRODUCCIÓN
 
+<p style='text-align: justify;'>  
+Hoy en día, la informática en red se ha convertido en un factor importante en la vida de una empresa, la razón principal es la cantidad de información que actualmente se maneja, hace que el tratamiento automático de la información sea realmente útil y necesario.
+Ser competitivos y no quedarse relegados en las tareas que proporcionan beneficios para proyectarse al futuro.
+Hace que el tratamiento automático de la información sea realmente útil y necesario tomando esto en cuenta se diseñó de un sistema de información para el control de dispensación de medicamentos en una farmacia, el análisis hecho en el lugar, se identificaron claramente que las ventas que se realizaban mediante la red eran inexistentes falencias que afectaban en lo económico 
+a la farmacia “Sellpast”, situación que se hizo evidente en la forma como se ejecutaban los procesos y funciones propias de estas áreas.
+La farmacia “Sellpast” no contaba con un sistema informático que coadyuve en estas tareas con una herramienta de control que ayude a superar estas falencias, mejorar la toma de decisiones que está estrechamente relacionado con los procesos de planificación y control, logrando así sus objetivos.
+</p>
+
 # INDICE
 
 1. ASPECTOS DE LA ORGANIZACIÓN

@@ -46,5 +46,5 @@
 
 *Hola*
 
-Martes|Jueves|Viernes
+Martes|miercoles|Jueves|Viernes
 ---|---|---

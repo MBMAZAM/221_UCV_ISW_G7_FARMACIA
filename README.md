@@ -35,6 +35,13 @@ La farmacia “Sellpast” no contaba con un sistema informático que coadyuve e
     2. 2.MISIÓN
     3. 3.OBJETIVOS
     4. 4.ANTECEDENTES
+        1. Según Pacompia López, Eduardo; Sarmiento Zapana y José (2016). **Implementación de un Sistema de Información, Basado en la Metodología RUP, para Mejorar el Proceso de Ventas en la Empresa CYNERGY DATA**. Tesis para optar el Título Profesional de Ingeniero de Sistemas. Universidad Autónoma del Perú. Lima. La investigación que se desarrolló el 2016 en CYNERGY DATA S.A.C empresa que se dedica al sector de venta de equipos de cómputo y servicio de soluciones tecnológicas, la investigación es aplicada, tuvo como objetivo implementar un software de ventas, basado en la metodología RUP y el UML para el análisis y diseño del sistema, garantizando un aplicativo jerarquizado basado en las necesidades de los clientes, el sistema de ventas integra las actividades, reportes detallados. Posterior a la implantación de la aplicación informática se consiguió optimizar el proceso de venta, la carga de datos redujo el tiempo en atención de venta en 40,95%; redujo el tiempo en la generación de reportes en un 50%; el control interno de almacén se realiza por medio de un kardex valorizado controlando un 100% sus productos. 
+        2. Según Arias (2019) realizo una tesis titulada **“Implementación de un sistema integrado de suministro de medicamentos e insumos médicos para mejorar el sistema de gestión de almacén en una cadena farmacéutica”** fue un trabajo de investigacion con
+
+
+
+        3. Según Pérez y Cruces (2016), con su tesis titulada **“DISEÑO DE UN PLAN DE GESTIÓN DE INVENTARIO PARA MEJORAR LAS VENTAS DE MERCADERÍAS EN UNA EMPRESA COMERCIALIZADORA DE MEDICAMENTOS”**. Su objetivo general es Diseñar un plan de gestión de inventario, para mejorar las ventas de mercaderías en una empresa comercializadora de medicamentos y uno de sus objetivos específicos es Proponer un plan de comisiones para el personal, para incrementar las ventas. La metodología que se utilizo fue de naturaleza descriptiva y explicativa. Las principales técnicas que se utilizarán en la investigación, son las encuestas, uso de formatos, uso de software y inventario. Del estudio realizado se concluye que se logró mejorar la precisión de los registros de productos de manera que se redujo la diferencia de entre lo real y virtual, de un 7% - 10 % de efectividad a un 100%.
+
     5. 5.ORGANIGRAMA
     6. 6.AMBITO DEL PROYECTO
        1. 6.1. Área 
@@ -45,7 +52,7 @@ La farmacia “Sellpast” no contaba con un sistema informático que coadyuve e
        
 2. ASPECTOS DEL NEGOCIO
    
-   2. 1 PROBLEMÁTICA ACTUAL ó ANÁLISIS SITUACIONAL
+   1. 1 PROBLEMÁTICA ACTUAL ó ANÁLISIS SITUACIONAL
    
 
 ### Hola 

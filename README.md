@@ -35,6 +35,9 @@ La farmacia “Sellpast” no contaba con un sistema informático que coadyuve e
          1. Vision: Nuestra vision a futuro con el proyecto de Sotware para el delivery de medicamentos es de un marco Holistico,es mirar el todo para alcanzar                     buenos resultados, estructurar, diseñar y planificar los procesos requeridos, para todos poder lograr un proyecto satisfactorio y potencial.
   
     2. 2.MISIÓN
+         1. Nuestra mision es desarrollar un proyecto competitivo y llamador , el cual pueda cumplir estandares de calidad, el cual tambien nos permita brindar un                  excelente servicio. 
+  
+  
     3. 3.OBJETIVOS
     4. 4.ANTECEDENTES
         1. Según Pacompia López, Eduardo; Sarmiento Zapana y José (2016). **Implementación de un Sistema de Información, Basado en la Metodología RUP, para Mejorar el Proceso de Ventas en la Empresa CYNERGY DATA**. Tesis para optar el Título Profesional de Ingeniero de Sistemas. Universidad Autónoma del Perú. Lima. La investigación que se desarrolló el 2016 en CYNERGY DATA S.A.C empresa que se dedica al sector de venta de equipos de cómputo y servicio de soluciones tecnológicas, la investigación es aplicada, tuvo como objetivo implementar un software de ventas, basado en la metodología RUP y el UML para el análisis y diseño del sistema, garantizando un aplicativo jerarquizado basado en las necesidades de los clientes, el sistema de ventas integra las actividades, reportes detallados. Posterior a la implantación de la aplicación informática se consiguió optimizar el proceso de venta, la carga de datos redujo el tiempo en atención de venta en 40,95%; redujo el tiempo en la generación de reportes en un 50%; el control interno de almacén se realiza por medio de un kardex valorizado controlando un 100% sus productos. 

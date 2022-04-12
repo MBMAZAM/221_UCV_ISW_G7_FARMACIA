@@ -48,6 +48,7 @@ La farmacia “Sellpast” no contaba con un sistema informático que coadyuve e
         4. Según Parra (2020), realizo una tesis titulada **"Diseño de un sistema de información para el control de inventario de medicamentos en farmacias colombianas"**. Su objetivo General es Diseñar un sistema de información utilizando arquitecturas de referencia con el fin de gestionar medicamentos en farmacias colombianas, también manejan objetivos especifico como Definir los requerimientos funcionales y no funcionales para determinar las necesidades del proceso de negocio utilizando técnicas de análisis de requerimientos. La metodología desarrollada en este trabajo se basa en diferentes pasos, los cuales se trabajaron de manera diferenciada y detallada para cumplir con los objetivos propuestos. Para finalizar se cumplió con el primer objetivo específico, el cual fue definir los requerimientos funcionales y no funcionales del sistema, teniendo en cuenta las diferentes acciones que realizara el sistema de información.
 
     5. 5.ORGANIGRAMA
+    ![Gerencia general](https://user-images.githubusercontent.com/71146984/162886042-04d6954b-4eb2-4009-890b-58b32dff254b.png)
     6. 6.AMBITO DEL PROYECTO
        1. 6.1. Área 
        2. 6.2. Recursos Humanos

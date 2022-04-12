@@ -35,7 +35,7 @@ La farmacia “Sellpast” no contaba con un sistema informático que coadyuve e
          1. Nuestra vision a futuro con el proyecto de Sotware para el delivery de medicamentos es de un marco Holistico,es mirar el todo para alcanzar                             buenos resultados, estructurar, diseñar y planificar los procesos requeridos, para todos poder lograr un proyecto satisfactorio y potencial.
   
     2. 2.MISIÓN
-         1. Nuestra mision es desarrollar un proyecto competitivo y llamador , el cual pueda cumplir estandares de calidad, el cual tambien nos permita brindar un                  excelente servicio. 
+         1. Nuestra mision es desarrollar un proyecto competitivo y llamador , el cual pueda cumplir estandares de calidad, y que tambien nos permita brindar un                  excelente servicio. 
   
   
     3. 3.OBJETIVOS

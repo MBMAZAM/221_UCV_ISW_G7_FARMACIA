@@ -5,7 +5,7 @@
 ## Software para delivery de Venta de Medicamentos de una farmacia en Lima y Callao - 2022
 
 ### DOCENTE: RICHARD LEONARDO BERROCAL NAVARRO
-
+### ORCID: 0000-0001-8718-3150
 ## EQUIPO Nro. 7
 
 * Maza Huamani Mauricio Brayar

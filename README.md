@@ -89,3 +89,9 @@ Identificativo|Nombre|Descripción
 
 
 
+<<<<<<< Updated upstream
+=======
+Martes|Jueves|Viernes
+---|---|---
+
+>>>>>>> Stashed changes

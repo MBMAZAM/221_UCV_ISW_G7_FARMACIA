@@ -58,15 +58,19 @@ La farmacia “Sellpast” no contaba con un sistema informático que coadyuve e
        
 2. ASPECTOS DEL NEGOCIO
    
-   1. 1 PROBLEMÁTICA ACTUAL ó ANÁLISIS SITUACIONAL
+   2. 1 PROBLEMÁTICA ACTUAL ó ANÁLISIS SITUACIONAL
    
+3.	METODOLOGÍA
+   3. 1. Modelo de Requerimientos.
+	  3. 1.1.   Cuadro de requerimientos funcionales, indicando: identificativo, nombre y descripción.
+	  3. 1.2.   Cuadro de requerimientos no funcionales, indicando: identificativo, nombre y descripción.
+	  3. 1.3.   Relación de actores y su descripción, cuadro indicando
+   
+	  3. 1.4.   Relación de casos de uso, cuadro indicando:
+	  3. 1.5.   Modelo de Casos de Uso de Requerimientos.
+	  3. 1.6.   Plantilla de especificación de casos de uso.
+      3. 1.7.   Matriz de trazabilidad de los requerimientos y casos de uso 
+	  3. 1.8. Modelo Conceptual de Clases.
 
-### Hola 
-### Esto es una prueba 
 
-dasdsad
-*Hola*
 
-Martes|miercoles|Jueves|Viernes
-
----|---|---

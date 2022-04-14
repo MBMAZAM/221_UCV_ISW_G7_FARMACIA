@@ -63,14 +63,29 @@ La farmacia “Sellpast” no contaba con un sistema informático que coadyuve e
 3.	METODOLOGÍA
    3. 1. Modelo de Requerimientos.
 	  3. 1.1.   Cuadro de requerimientos funcionales, indicando: identificativo, nombre y descripción.
-	  3. 1.2.   Cuadro de requerimientos no funcionales, indicando: identificativo, nombre y descripción.
-	  3. 1.3.   Relación de actores y su descripción, cuadro indicando
+
+
+Identificativo|Nombre|Descripción
+ :---:|:---:|:---:
+ RF01|Registrar Usuario|El sistema permitirá al usuario (Cliente, operario, administrador) registrarse. El usuario debe suministrar datos como: Cedula, Nombre, Apellidos, E-mail, Numero celular y dependiendo el tipo Usuario y contraseña.
+ RF02|Gestión Usuario|El vendedor o el operario, podrá modificar los datos de losusuarios
+ RF03|Registro medicamentos|El sistema permitirá al usuario registrar los medicamento para que sea guardado en la base de datos
+ RF04|Gestión medicamentos|El sistema permitirá al usuario actualizar, borrar o consultar los datos de cualquier medicamento.
+ 
+
+
+
+
+
+
+	 1. 1.2.   Cuadro de requerimientos no funcionales, indicando: identificativo, nombre y descripción.
+	  1. 1.3.   Relación de actores y su descripción, cuadro indicando
    
-	  3. 1.4.   Relación de casos de uso, cuadro indicando:
+	  2. 1.4.   Relación de casos de uso, cuadro indicando:
 	  3. 1.5.   Modelo de Casos de Uso de Requerimientos.
-	  3. 1.6.   Plantilla de especificación de casos de uso.
-      3. 1.7.   Matriz de trazabilidad de los requerimientos y casos de uso 
-	  3. 1.8. Modelo Conceptual de Clases.
+	  4. 1.6.   Plantilla de especificación de casos de uso.
+      1. 1.7.   Matriz de trazabilidad de los requerimientos y casos de uso 
+	  5.  1.8. Modelo Conceptual de Clases.
 
 
 

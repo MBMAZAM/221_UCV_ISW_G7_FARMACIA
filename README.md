@@ -2,7 +2,7 @@
 
 # FACULTAD DE INGENIERÍA Y ARQUITECTURA ESCUELA PROFESIONAL DE INGENIERÍA DE SISTEMAS
 
-## Software para delivery de Venta de Medicamentos de una farmacia en Lima y Callao - 2022
+## Software de Venta de Medicamentos de una farmacia en Lima y Callao - 2022
 
 ### DOCENTE: RICHARD LEONARDO BERROCAL NAVARRO
 ### ORCID: 0000-0001-8718-3150

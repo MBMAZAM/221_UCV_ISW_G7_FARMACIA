@@ -68,10 +68,10 @@ La farmacia “Sellpast” no contaba con un sistema informático que coadyuve e
            Identificativo|Nombre|Descripción
            :---:|:---:|:---:
            **RF01**|Registrar Usuario|El sistema permitirá registrar. El usuario debe suministrar datos como: DNI, Nombre, Apellidos, E-mail, Numero celular y contraseña.
-           **RF02**|Gestión Usuario|El vendedor o el operario, podrá modificar los datos de losusuarios
+           **RF02**|Gestión Usuario|El vendedor o el operario, podrá modificar los datos de los usuarios
            **RF03**|Registro medicamentos|El sistema permitirá al usuario registrar los medicamento para que sea guardado en la base de datos
-           **RF04**|Gestión medicamentos|El sistema permitirá al usuario actualizar, borrar o consultar los datos de cualquier medicamento.
-           **RF05**|Gestión factura|El sistema permitirá al usuario consultar o eliminar cualquier registro de factura.
+           **RF04**|Eliminar Pedido|El sistema permitirá al usuario eliminar pedido de medicamentos.
+           **RF05**|Gestión factura|El sistema permitirá al usuario consultar registro de factura.
 
       	  3. 1.2.   Cuadro de requerimientos no funcionales, indicando: identificativo, nombre y descripción.
 

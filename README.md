@@ -9,7 +9,7 @@
 ## EQUIPO Nro. 7
 
 * Maza Huamani Mauricio Brayar (0000-0002-9447-6098)
-* Juarez Morales Miguel Alonso
+* Juarez Morales Miguel Alonso (0000-0000)
 * Ibáñez Del Aguila, Kriss Zuzú
 * Encalada Jara Debbis santi (0000-0003-3304-7238)
 

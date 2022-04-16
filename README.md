@@ -11,7 +11,7 @@
 * Maza Huamani Mauricio Brayar (0000-0002-9447-6098)
 * Juarez Morales Miguel Alonso
 * Ibáñez Del Aguila, Kriss Zuzú
-* Encalada Jara Debbis santi
+* Encalada Jara Debbis santi (0000-0003-3304-7238)
 
     **PERÚ**
 

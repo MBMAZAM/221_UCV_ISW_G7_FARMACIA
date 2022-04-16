@@ -52,8 +52,10 @@ La farmacia “Sellpast” no contaba con un sistema informático que coadyuve e
     ![Gerencia general](https://user-images.githubusercontent.com/71146984/162886042-04d6954b-4eb2-4009-890b-58b32dff254b.png)
     1. 6.AMBITO DEL PROYECTO
        1. 6.1. Área 
+       
        Botica RyG, en el distrito de Comas-Lima-Lima.
        2. 6.2. Recursos Humanos
+       
        Estudiantes de la Universidad César Vallejo, Ingeniería de Sistemas del quinto ciclo.
        3. 6.3. Software 
        4. 6.4. Hardware
@@ -62,10 +64,11 @@ La farmacia “Sellpast” no contaba con un sistema informático que coadyuve e
 2. ASPECTOS DEL NEGOCIO
 
    1. 1 PROBLEMÁTICA ACTUAL ó ANÁLISIS SITUACIONAL
-        Desde hace un par de meses una nueva botica se inauguró en el distrito de Comas, llamada "Botica RyG", brindando servicio de diferentes medicamentos de marca, genéricos y algunas otras cosas. 
-	Estuvieron vendiendo por 4 meses pero las ventas eran cada vez más bajas, por ser nuevos y no tener experiencias han presentado diferentes inconvenientes, como la entrega errónea de medicamentos
+        
+	Desde hace un par de meses una nueva botica se inauguró en el distrito de Comas, llamada "Botica RyG", brindando servicio de diferentes medicamentos de marca,         genéricos y algunas otras cosas. 
+	Estuvieron vendiendo por 4 meses pero las ventas eran cada vez más bajas, por ser nuevos y no tener experiencias han presentado diferentes inconvenientes, como         la entrega errónea de medicamentos
 	a los clientes, no poder registrar los medicamentos que se venden, no tener un registro de cuánto se ha ganado al mes y qué medicamentos faltan. 
-        De acuerdo con lo investigado, se planteamos un diseño de un modelo de un sistema de información para el control de inventario con el fin de disminuir los errores que se pueden cometer en la 
+        De acuerdo con lo investigado, se planteamos un diseño de un modelo de un sistema de información para el control de inventario con el fin de disminuir los             errores que se pueden cometer en la 
 	venta y registro de medicamentos a los clientes de la "Botica RyG".
 
 

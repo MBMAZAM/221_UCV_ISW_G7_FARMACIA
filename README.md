@@ -8,7 +8,7 @@
 ### ORCID: 0000-0001-8718-3150
 ## EQUIPO Nro. 7
 
-* Maza Huamani Mauricio Brayar
+* Maza Huamani Mauricio Brayar (0000-0002-9447-6098)
 * Juarez Morales Miguel Alonso
 * Ibáñez Del Aguila, Kriss Zuzú
 * Encalada Jara Debbis santi
@@ -32,16 +32,16 @@ La farmacia “Sellpast” no contaba con un sistema informático que coadyuve e
 1. ASPECTOS DE LA ORGANIZACIÓN
   
     1. 1.VISIÓN 
-         1. Nuestra vision a futuro con el proyecto de Sotware para el delivery de medicamentos es de un marco Holistico,es mirar el todo para alcanzar                             buenos resultados, estructurar, diseñar y planificar los procesos requeridos, para todos poder lograr un proyecto satisfactorio y potencial.
+         1. Nuestra vision a futuro con el proyecto de Sotware para la venta de medicamentos es de suma importancia trabajar en un marco Holistico, es mirar el todo para alcanzar buenos resultados, estructurar, diseñar y planificar los procesos requeridos, para todos poder lograr un proyecto satisfactorio y potencial.
   
     2. 2.MISIÓN
-         1. Nuestra mision es desarrollar un proyecto competitivo y llamador , el cual pueda cumplir estandares de calidad, y que tambien nos permita brindar un                  excelente servicio. 
+         1. Nuestra mision es desarrollar un proyecto competitivo y llamador, el cual pueda cumplir estandares de calidad, y que tambien nos permita brindar un excelente servicio. 
   
   
     3. 3.OBJETIVO
-        1. Nuestro objetivo es consolidarnos como equipo durante el proceso y tambien al culminar el trabajo ,teniendo en cuenta el potencial y calidad de estudiantes que tenemos como responsables, tenemos como proyeccion de poder brindar un excelente software para cumplir con los requerimientos necesarios del proyecto y aumentar productividad semana tras semana.
+        1. Nuestro objetivo es consolidarnos como equipo durante el proceso y tambien al culminar el trabajo, teniendo en cuenta el potencial y calidad de estudiantes que tenemos como responsables, tenemos como proyeccion de poder brindar un excelente software para cumplir con los requerimientos necesarios del proyecto y aumentar productividad semana tras semana.
         
-    5. 4.ANTECEDENTES
+    4. 4.ANTECEDENTES
         1. Según Pacompia López, Eduardo; Sarmiento Zapana y José (2016). **Implementación de un Sistema de Información, Basado en la Metodología RUP, para Mejorar el Proceso de Ventas en la Empresa CYNERGY DATA**. Tesis para optar el Título Profesional de Ingeniero de Sistemas. Universidad Autónoma del Perú. Lima. La investigación que se desarrolló el 2016 en CYNERGY DATA S.A.C empresa que se dedica al sector de venta de equipos de cómputo y servicio de soluciones tecnológicas, la investigación es aplicada, tuvo como objetivo implementar un software de ventas, basado en la metodología RUP y el UML para el análisis y diseño del sistema, garantizando un aplicativo jerarquizado basado en las necesidades de los clientes, el sistema de ventas integra las actividades, reportes detallados. Posterior a la implantación de la aplicación informática se consiguió optimizar el proceso de venta, la carga de datos redujo el tiempo en atención de venta en 40,95%; redujo el tiempo en la generación de reportes en un 50%; el control interno de almacén se realiza por medio de un kardex valorizado controlando un 100% sus productos. 
         2. Según Arias (2019) realizo una tesis titulada **“Implementación de un sistema integrado de suministro de medicamentos e insumos médicos para mejorar el sistema de gestión de almacén en una cadena farmacéutica”**. Su objetivo general es bajar la tasa de medicamentos vencidos, implementando un sistema integrado de suministro de medicamentos e insumos médicos para una farmacia. La metodología que utilizaron para que permita estructurar de forma adecuada el proyecto de software que han desarrollo en la presente investigación fue la RU, XP, ICONIX y SCRUM. Del estudio mencionado se concluyó que el sistema integrado de suministro de medicamentos e insumos médicos, ayudó a poder optimizar la gestión de almacén en la cadena farmacéutica.
         3. Según Pérez y Cruces (2016), con su tesis titulada **“DISEÑO DE UN PLAN DE GESTIÓN DE INVENTARIO PARA MEJORAR LAS VENTAS DE MERCADERÍAS EN UNA EMPRESA COMERCIALIZADORA DE MEDICAMENTOS”**. Su objetivo general es Diseñar un plan de gestión de inventario, para mejorar las ventas de mercaderías en una empresa comercializadora de medicamentos y uno de sus objetivos específicos es Proponer un plan de comisiones para el personal, para incrementar las ventas. La metodología que se utilizo fue de naturaleza descriptiva y explicativa. Las principales técnicas que se utilizarán en la investigación, son las encuestas, uso de formatos, uso de software y inventario. Del estudio realizado se concluye que se logró mejorar la precisión de los registros de productos de manera que se redujo la diferencia de entre lo real y virtual, de un 7% - 10 % de efectividad a un 100%.
@@ -49,7 +49,7 @@ La farmacia “Sellpast” no contaba con un sistema informático que coadyuve e
 
     5. 5.ORGANIGRAMA
     ![Gerencia general](https://user-images.githubusercontent.com/71146984/162886042-04d6954b-4eb2-4009-890b-58b32dff254b.png)
-    6. 6.AMBITO DEL PROYECTO
+    1. 6.AMBITO DEL PROYECTO
        1. 6.1. Área 
        2. 6.2. Recursos Humanos
        3. 6.3. Software
@@ -58,7 +58,7 @@ La farmacia “Sellpast” no contaba con un sistema informático que coadyuve e
    
 2. ASPECTOS DEL NEGOCIO
 
-   2. 1 PROBLEMÁTICA ACTUAL ó ANÁLISIS SITUACIONAL
+   1. 1 PROBLEMÁTICA ACTUAL ó ANÁLISIS SITUACIONAL
    
 3.	METODOLOGÍA
 

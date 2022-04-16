@@ -10,8 +10,9 @@
 
 * Maza Huamani Mauricio Brayar (0000-0002-9447-6098)
 * Juarez Morales Miguel Alonso (0000-0001-5497-1126)
-* Ibáñez Del Aguila, Kriss Zuzú
+* Ibáñez Del Aguila, Kriss Zuzú(0000-0001-8738-3224)
 * Encalada Jara Debbis santi (0000-0003-3304-7238)
+* Jara Salazar Rodolfo Efrain(0000-0003-0091-8527)
 
     **PERÚ**
 

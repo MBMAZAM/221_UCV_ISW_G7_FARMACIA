@@ -13,6 +13,7 @@
 * Ibáñez Del Aguila, Kriss Zuzú(0000-0001-8738-3224)
 * Encalada Jara Debbis santi (0000-0003-3304-7238)
 * Jara Salazar Rodolfo Efrain(0000-0003-0091-8527)
+* Guerra Sulca Jordyn Junior (0000-0003-3767-0473)
 
     **PERÚ**
 

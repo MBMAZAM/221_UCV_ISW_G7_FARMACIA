@@ -41,7 +41,7 @@ La farmacia “Sellpast” no contaba con un sistema informático que coadyuve e
   
   
     3. 3.OBJETIVO
-        1. Nuestro objetivo es consolidarnos como equipo durante el proceso y tambien al culminar el trabajo, teniendo en cuenta el potencial y calidad de estudiantes que tenemos como responsables, tenemos como proyeccion de poder brindar un excelente software para cumplir con los requerimientos necesarios del proyecto y aumentar productividad semana tras semana.
+        1. Nuestro objetivo es consolidarnos como equipo durante el proceso y tambien al culminar el trabajo, teniendo en cuenta el potencial y calidad de estudiantes que tenemos como responsables, tambien como proyeccion de poder brindar un excelente software para cumplir con los requerimientos necesarios del proyecto y aumentar productividad semana tras semana.
         
     4. 4.ANTECEDENTES
         1. Según Pacompia López, Eduardo; Sarmiento Zapana y José (2016). **Implementación de un Sistema de Información, Basado en la Metodología RUP, para Mejorar el Proceso de Ventas en la Empresa CYNERGY DATA**. Tesis para optar el Título Profesional de Ingeniero de Sistemas. Universidad Autónoma del Perú. Lima. La investigación que se desarrolló el 2016 en CYNERGY DATA S.A.C empresa que se dedica al sector de venta de equipos de cómputo y servicio de soluciones tecnológicas, la investigación es aplicada, tuvo como objetivo implementar un software de ventas, basado en la metodología RUP y el UML para el análisis y diseño del sistema, garantizando un aplicativo jerarquizado basado en las necesidades de los clientes, el sistema de ventas integra las actividades, reportes detallados. Posterior a la implantación de la aplicación informática se consiguió optimizar el proceso de venta, la carga de datos redujo el tiempo en atención de venta en 40,95%; redujo el tiempo en la generación de reportes en un 50%; el control interno de almacén se realiza por medio de un kardex valorizado controlando un 100% sus productos. 
@@ -92,6 +92,31 @@ La farmacia “Sellpast” no contaba con un sistema informático que coadyuve e
 	  3. 1.4.   Relación de casos de uso, cuadro indicando:
 	  3. 1.5.   Modelo de Casos de Uso de Requerimientos.
 	  3. 1.6.   Plantilla de especificación de casos de uso.
-      3. 1.7.   Matriz de trazabilidad de los requerimientos y casos de uso 
-	  3. 1.8. Modelo Conceptual de Clases.
+      3. 1.7.   Matriz de trazabilidad de los requerimientos y casos de uso.
+        Matriz de trazabilidad de requerimientos
+
+               **Software de Venta de Medicamentos de una farmacia en Lima y Callao - 2022**
+                
+
+
+Requerimientos funciones |0|0|0|0|0
+:---:|:---:|:---:|:---:|:---:|:---:
+---|RF01 Registrarr Usuario|RF02 Gestionar Usuario|  ----  RF03----    Resgistar Medicamentos|--RF04--Eliminar pedido|--RF05--visualizar factura
+identificar requisitos|---|x|x|x|---
+Analizar los requisitos|---|x|x|x|---
+Especificar los requisitos|x|---|x|x|---
+Representar los requisitos|x|---|x|x|---
+Validar los requisitos|x|---|x|x|---
+Administrar los requisitos|x|---|x|x|x
+
+        
+        
+        
+        
+
+
+
+        
+
+	  1. 1.8. Modelo Conceptual de Clases.
 

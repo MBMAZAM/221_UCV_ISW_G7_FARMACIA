@@ -101,7 +101,14 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
    
 	  3. 1.4.   Relación de casos de uso, cuadro indicando:
 	  3. 1.5.   Modelo de Casos de Uso de Requerimientos.
-	  3. 1.6.   Plantilla de especificación de casos de uso.
+
+		![Modelo de Requerimientos](https://user-images.githubusercontent.com/82491533/163787963-4c093c27-9daf-45f9-9561-c3e222447460.jpeg)
+
+
+
+
+
+	  5. 1.6.   Plantilla de especificación de casos de uso.
       3. 1.7.   Matriz de trazabilidad de los requerimientos y casos de uso.
         Matriz de trazabilidad de requerimientos
 

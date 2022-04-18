@@ -102,7 +102,8 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
 	  3. 1.4.   Relación de casos de uso, cuadro indicando:
 	  3. 1.5.   Modelo de Casos de Uso de Requerimientos.
 
-	![Modelo de Requerimientos](https://user-images.githubusercontent.com/82491533/163787963-4c093c27-9daf-45f9-9561-c3e222447460.jpeg)
+	![WhatsApp Image 2022-04-18 at 5 15 07 AM](https://user-images.githubusercontent.com/82491533/163794275-9c78df1f-7d73-46ee-89de-7492437af2e2.jpeg)
+
 
 
 

@@ -109,6 +109,7 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
         Jefe de Logistica|Se encarga de preparar el pedido|Su responsabilidad es la de mantener las productos en stock
 	1. 1.4.   Relación de casos de uso, cuadro indicando:
    
+
         Nro.|Caso de uso|Descripción
         :---:|:---:|:----: 
         CU01|Solicitar Producto|
@@ -118,11 +119,17 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
         CU05|Venden Producto|
         CU06|Entregar boleta o Factura|
 
+	  1. 1.4.   Relación de casos de uso, cuadro indicando:
+	  2. 1.5.   Modelo de Casos de Uso de Requerimientos.
+	  3. 
+	  4. 1.6.   Plantilla de especificación de casos de uso.
+      1. 1.7.   Matriz de trazabilidad de los requerimientos y casos de uso.
+        Matriz de trazabilidad de requerimientos
 
-	  1. 1.5.   Modelo de Casos de Uso de Requerimientos.
+	  5. 1.5.   Modelo de Casos de Uso de Requerimientos.
 
 
-	  2. 1.6.   Plantilla de especificación de casos de uso.
+	  6. 1.6.   Plantilla de especificación de casos de uso.
       1. 1.7.   Matriz de trazabilidad de los requerimientos y casos de uso.
         Matriz de trazabilidad de requerimientos
 
@@ -137,14 +144,5 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
             Validar los requisitos|x|---|x|x|---
             Administrar los requisitos|x|---|x|x|x
 
-        
-        
-        
-        
-
-
-
-        
-
-	  3. 1.8. Modelo Conceptual de Clases.
+	  7. 1.8. Modelo Conceptual de Clases.
 

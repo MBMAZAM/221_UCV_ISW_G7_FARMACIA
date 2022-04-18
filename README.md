@@ -60,9 +60,44 @@ La farmacia “Sellpast” no contaba con un sistema informático que coadyuve e
        
        Estudiantes de la Universidad César Vallejo, Ingeniería de Sistemas del quinto ciclo.
        
-       3. 6.3. Software 
-       4. 6.4. Hardware
-       5. 6.5. Cronograma de Actividades   br_spaces
+       </BR>
+       
+       ### 3. 6.3. Software 
+         ### Requisitos de Instalación
+         ### Sistemas operativos compatibles
+	 
+        * Windows 7 (x86 y x64)
+        * Windows 10 (x86 y x64)
+        * XAMPP CONTROL PANEL
+        * SQL ACTIVO + APACHE ACTIVO
+
+       ### 5. 6.4. Hardware
+         ### Arquitecturas compatibles
+        * 32 bits (x86)
+        * 64 bits (x64)
+         ### Requisitos de hardware
+        * Procesador Dual Core de 3,0 GHz o superior
+        * 4 GB de memoria RAM (1,5 GB si se ejecuta en una máquina virtual)
+        * 10 GB de espacio disponible en disco duro
+        * 5400 RPM de disco duro
+        * Tarjeta de vídeo compatible con DirectX 9 o 10 con una ejecución de resolución 
+          de pantalla de 1024 x 768 o superior
+       </BR>
+       
+        ### Pasos de la instalación y Configuración 
+       
+       ![image](https://user-images.githubusercontent.com/103221118/163880621-bcc2f2c8-4bc6-49c5-aad2-6851ed9ca4c7.png)
+       ![image](https://user-images.githubusercontent.com/103221118/163880667-d44b9035-44a8-454e-8c1a-0a25ab5d6b61.png)
+       ![image](https://user-images.githubusercontent.com/103221118/163880693-1b9e2e28-4f55-4c9f-a9fe-350045cf55d8.png)
+       ![image](https://user-images.githubusercontent.com/103221118/163880735-4aac17af-d94c-4fe9-8ed3-07e4e493fec9.png)
+       ![image](https://user-images.githubusercontent.com/103221118/163880783-f3da02a1-df8e-4eab-a523-b8322e561897.png)
+       ![image](https://user-images.githubusercontent.com/103221118/163880828-cf0f014f-6e0a-41ad-b337-53659ddcbae2.png)
+       
+        ### Instalación base de datos:
+       ![image](https://user-images.githubusercontent.com/103221118/163880893-3b605fb7-bc4f-4b69-b811-85d1a47e6460.png)
+
+       
+       7. 6.5. Cronograma de Actividades   br_spaces
    
 2. ASPECTOS DEL NEGOCIO
 

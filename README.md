@@ -121,8 +121,16 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
 
 	  1. 1.4.   Relación de casos de uso, cuadro indicando:
 	  2. 1.5.   Modelo de Casos de Uso de Requerimientos.
-	  3. 
+	
 	  4. 1.6.   Plantilla de especificación de casos de uso.
+		    Caso de uso|Descripción|Actor|Pre-Condición|Post-Condición
+		   :---:|:---:|:---:|:---:|:---:
+		   Consulta de Producto|Se inicia cuando el cliente solicita un producto en la farmacia.|Cliente|---|---
+		   Venta de Producto|Se realiza cuando el vendedor atiende la consulta y realiza la entrega del producto.|Vendedor|Que el cliente este de acuerdo con el producto.|Si todo está en perfectas condiciones se efectúa la venta.
+		   Cambio de Producto|Se realiza cuando cliente desea un cambio de producto por motivos que podría tener.|Vendedor, Cliente|Que el cliente tenga algún motivo para el cambio del producto.|Si todo está correcto y el vendedor con el cliente llegan a un acuerdo se realiza el cambio de producto.
+		  Registro de Clientes|SeSi todo está correcto y el vendedor con el cliente llegan a un acuerdo se realiza el cambio de producto. realiza cuando el cliente realiza la compra y tiene que proceder a pagar el producto y el encargado de caja tiene que registrar sus datos.|Vendedor, Caja|Que el cliente proceda a hacer pago de la compra.|Si el caso de uso se realiza correctamente, es posible el registro de clientes.
+		  Emisión de Boleta o Factura |Se realiza cuando la venta del producto ya llega a la parte final.|Vendedor, Caja, Cliente|Que el cliente haya sido registrado exitosamente.|Si el caso de uso se realiza correctamente, es posible la emisión de boleta o boleta.
+		   
       1. 1.7.   Matriz de trazabilidad de los requerimientos y casos de uso.
         Matriz de trazabilidad de requerimientos
 

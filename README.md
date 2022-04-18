@@ -79,13 +79,17 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
 
            Identificativo|Nombre|Descripción
            :---:|:---:|:---:
-           **RF01**|Registrar Usuario|El sistema permitirá registrar. El usuario debe suministrar datos como: DNI, Nombre, Apellidos, E-mail, Numero celular y contraseña.
-           **RF02**|Gestionar Usuario|El vendedor o el operario, podrá modificar los datos de los usuarios
-           **RF03**|Registrar medicamento|El sistema permitirá al usuario registrar los medicamento para que sea guardado en la base de datos
-           **RF04**|Eliminar Pedido|El sistema permitirá al usuario eliminar pedido de medicamentos.
-           **RF05**|Visualizar factura|El sistema permitirá al usuario consultar registro de factura.
+           **RF01**|Registrar usuario|El sistema permitirá registrar. El usuario debe suministrar datos como: DNI, Nombre, Apellidos, E-mail, Numero celular y contraseña.
+           **RF02**|Solicitar Medicamento|El vendedor o el operario, podrá modificar los datos de los usuarios
+           **RF03**|Registrar venta|El sistema permitirá al vendedor registrar la venta para que sea guardado en la base de datos
+           **RF04**|Entregar factura|El sistema permitirá al vendedor entregar registro de factura.
+           **RF05**|Verificar Producto|El sistema permitirá verificar los productos que quedan.
+           **RF04**|Revisar Stock|El sistema permitirá al vendedor revisar stock
+          
+           
+           
 
-      	  3. 1.2.   Cuadro de requerimientos no funcionales, indicando: identificativo, nombre y descripción.
+      	  1. 1.2.   Cuadro de requerimientos no funcionales, indicando: identificativo, nombre y descripción.
 
             Identificativo|Nombre|Descripción
             :---:|:---:|:---:
@@ -97,27 +101,41 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
 
 
 
-      3. 1.3.   Relación de actores y su descripción, cuadro indicando
+    1. 1.3.   Relación de actores y su descripción, cuadro indicando
+
+        Actor|Asignado a|Responsabilidad
+        :---:|:---:|:----:
+        Jefe de Venta|Se encarga de realizar la venta, registro de medicamento y cliente|Su responsabilidad es manejar el sistema directamenta para poder generar la venta
+        Jefe de Logistica|Se encarga de preparar el pedido|Su responsabilidad es la de mantener las productos en stock
+	1. 1.4.   Relación de casos de uso, cuadro indicando:
    
-	  3. 1.4.   Relación de casos de uso, cuadro indicando:
-	  3. 1.5.   Modelo de Casos de Uso de Requerimientos.
-	  3. 1.6.   Plantilla de especificación de casos de uso.
-      3. 1.7.   Matriz de trazabilidad de los requerimientos y casos de uso.
+        Nro.|Caso de uso|Descripción
+        :---:|:---:|:----: 
+        CU01|Solicitar Producto|
+        CU02|Verificar Producto|
+        CU03|Preparar Pedido|
+        CU04|Registrar datos cliente|
+        CU05|Venden Producto|
+        CU06|Entregar boleta o Factura|
+
+
+	  1. 1.5.   Modelo de Casos de Uso de Requerimientos.
+
+
+	  2. 1.6.   Plantilla de especificación de casos de uso.
+      1. 1.7.   Matriz de trazabilidad de los requerimientos y casos de uso.
         Matriz de trazabilidad de requerimientos
 
-               **Software de Venta de Medicamentos de una farmacia en Lima y Callao - 2022**
-                
-
-
-Requerimientos funciones |0|0|0|0|0
-:---:|:---:|:---:|:---:|:---:|:---:
----|RF01 Registrarr Usuario|RF02 Gestionar Usuario|  ----  RF03----    Resgistar Medicamentos|--RF04--Eliminar pedido|--RF05--visualizar factura
-identificar requisitos|---|x|x|x|---
-Analizar los requisitos|---|x|x|x|---
-Especificar los requisitos|x|---|x|x|---
-Representar los requisitos|x|---|x|x|---
-Validar los requisitos|x|---|x|x|---
-Administrar los requisitos|x|---|x|x|x
+         **Software de Venta de Medicamentos de una farmacia en Lima y Callao - 2022**
+            Requerimientos funciones |0|0|0|0|0
+            :---:|:---:|:---:|:---:|:---:|:---:
+            ---|RF01 Registrarr Usuario|RF02 Gestionar Usuario|  ----  RF03----    Resgistar Medicamentos|--RF04--Eliminar pedido|--RF05--visualizar factura
+            identificar requisitos|---|x|x|x|---
+            Analizar los requisitos|---|x|x|x|---
+            Especificar los requisitos|x|---|x|x|---
+            Representar los requisitos|x|---|x|x|---
+            Validar los requisitos|x|---|x|x|---
+            Administrar los requisitos|x|---|x|x|x
 
         
         
@@ -128,5 +146,5 @@ Administrar los requisitos|x|---|x|x|x
 
         
 
-	  1. 1.8. Modelo Conceptual de Clases.
+	  3. 1.8. Modelo Conceptual de Clases.
 

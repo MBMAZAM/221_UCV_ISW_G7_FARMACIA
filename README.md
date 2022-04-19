@@ -72,7 +72,7 @@ La farmacia “Sellpast” no contaba con un sistema informático que coadyuve e
         * SQL ACTIVO + APACHE ACTIVO
 
        ### 3. 6.4. Hardware
-         ### Arquitecturas compatibles
+        ### Arquitecturas compatibles
         * 32 bits (x86)
         * 64 bits (x64)
          ### Requisitos de hardware
@@ -84,7 +84,7 @@ La farmacia “Sellpast” no contaba con un sistema informático que coadyuve e
           de pantalla de 1024 x 768 o superior
        </BR>
        
-        ### Pasos de la instalación y Configuración 
+        ###  Pasos de la instalación y Configuración 
        
        ![image](https://user-images.githubusercontent.com/103221118/163880621-bcc2f2c8-4bc6-49c5-aad2-6851ed9ca4c7.png)
        ![image](https://user-images.githubusercontent.com/103221118/163880667-d44b9035-44a8-454e-8c1a-0a25ab5d6b61.png)
@@ -114,17 +114,15 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
 
            Identificativo|Nombre|Descripción
            :---:|:---:|:---:
-           **RF01**|Registrar usuario|El sistema permitirá registrar. El usuario debe suministrar datos como: DNI, Nombre, Apellidos, E-mail, Numero celular y contraseña.
-           **RF02**|Solicitar Medicamento|El vendedor o el operario, podrá modificar los datos de los usuarios
-           **RF03**|Registrar venta|El sistema permitirá al vendedor registrar la venta para que sea guardado en la base de datos
-           **RF04**|Entregar factura|El sistema permitirá al vendedor entregar registro de factura.
-           **RF05**|Verificar Producto|El sistema permitirá verificar los productos que quedan.
-           **RF04**|Revisar Stock|El sistema permitirá al vendedor revisar stock
-          
-           
-           
+           **RF01**|Registrar cliente|Necesito que el sistema registre al cliente
+           **RF02**|Visualizar Ordenes|Necesito que el sistema permita visualizar las ordenes de productos
+           **RF03**|Visualizar Productos|necesito que el sistema permita visualizar los productos que estan disponibles
+           **RF04**|Registrar venta|Necesito que el sistema permita registrar la venta
+           **RF05**|Entregar factura|Necestio que el sistema permita entregar registro de factura.
+           **RF06**|Visualizar Clientes|Necesito que el sistema permita visualizar los clientes registrados
+           **RF07**|Editar y Eliminar producto|Necesito que el sistema permita editar y eliminar producto registrado
 
-      	  3. 1.2.   Cuadro de requerimientos no funcionales, indicando: identificativo, nombre y descripción.
+      	  1. 1.2.   Cuadro de requerimientos no funcionales, indicando: identificativo, nombre y descripción.
 
             Identificativo|Nombre|Descripción
             :---:|:---:|:---:
@@ -133,54 +131,57 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
             **RNF03**|Escalabilidad|El sistema debe poderse ampliar en cuanto al desarrollo para permitir avances futuros en el software.
             **RNF04**|Rendimiento|El sistema debe de ser capaz de mantener la velocidad de respuesta aun cuando este se encuentre con muchas solicitudes.
             **RNF05**|Usabilidad|La interacción del usuario con el sistema debe ser lo más intuitiva posible, siendo de manera que este no necesite ayuda para hacer uso del mismo, y que le dé una experiencia agradable de uso.
+            **RNF06**|XAMPP|Utilizaremos la herramienta XAMPP para poder abrir el programa.
+            **RNF07**|PHP|El sistema esta elevadorado en lenguaje PHP.
 
 
 
-    3. 1.3.   Relación de actores y su descripción, cuadro indicando
+    1. 1.3.   Relación de actores y su descripción, cuadro indicando
 
         Actor|Asignado a|Responsabilidad
         :---:|:---:|:----:
-        Jefe de Venta|Se encarga de realizar la venta, registro de medicamento y cliente|Su responsabilidad es manejar el sistema directamenta para poder generar la venta
-        Jefe de Logistica|Se encarga de preparar el pedido|Su responsabilidad es la de mantener las productos en stock
-	3. 1.4.   Relación de casos de uso, cuadro indicando:
+        **Tecnica de Farmacia**|realizar la venta, registro de medicamento y cliente|Su responsabilidad es manejar el sistema directamenta para poder generar la venta.
+        **Administradora**|Gestionar y administrar|Su responsabilidad es mantener las cosas en orden y apoyo en la venta
+	1. 1.4.   Relación de casos de uso, cuadro indicando:
    
 
         Nro.|Caso de uso|Descripción
         :---:|:---:|:----: 
-        CU01|Solicitar Producto|
-        CU02|Verificar Producto|
-        CU03|Preparar Pedido|
-        CU04|Registrar datos cliente|
-        CU05|Venden Producto|
-        CU06|Entregar boleta o Factura|
-
+        **CU01**|Registrar cliente|El sistema permitirá registrar al cliente donde debe suministrar datos como: DNI, Nombre, Apellidos, E-mail, Numero celular y contraseña.
+        **CU02**|Visualizar Ordenes|El sistema permitira visualizar las ordenes de productos
+        **CU03**|Visualizar Productos|El sistema permitira visualizar los productos que estan disponibles
+        **CU04**|Registrar venta|El sistema permitirá al vendedor registrar la venta para que sea guardado en la base de datos
+        **CU05**|Entregar factura|El sistema permitirá al vendedor entregar registro de factura.
+        **CU06**|Visualizar Clientes|El sistema permitirá visualizar los clientes registrados
+        **CU07**|Editar y Eliminar producto|El sistema permitirá editar y eliminar producto registrado
 
 	  3. 1.5.   Modelo de Casos de Uso de Requerimientos.
 	
-	  
-		   
 
-3. 1.6.   Plantilla de especificación de casos de uso.
-		    Caso de uso|Descripción|Actor|Pre-Condición|Post-Condición
-		   :---:|:---:|:---:|:---:|:---:
-		   Consulta de Producto|Se inicia cuando el cliente solicita un producto en la farmacia.|Cliente|---|---
-		   Venta de Producto|Se realiza cuando el vendedor atiende la consulta y realiza la entrega del producto.|Vendedor|Que el cliente este de acuerdo con el producto.|Si todo está en perfectas condiciones se efectúa la venta.
-		   Cambio de Producto|Se realiza cuando cliente desea un cambio de producto por motivos que podría tener.|Vendedor, Cliente|Que el cliente tenga algún motivo para el cambio del producto.|Si todo está correcto y el vendedor con el cliente llegan a un acuerdo se realiza el cambio de producto.
-		  Registro de Clientes|SeSi todo está correcto y el vendedor con el cliente llegan a un acuerdo se realiza el cambio de producto. realiza cuando el cliente realiza la compra y tiene que proceder a pagar el producto y el encargado de caja tiene que registrar sus datos.|Vendedor, Caja|Que el cliente proceda a hacer pago de la compra.|Si el caso de uso se realiza correctamente, es posible el registro de clientes.
-		  Emisión de Boleta o Factura |Se realiza cuando la venta del producto ya llega a la parte final.|Vendedor, Caja, Cliente|Que el cliente haya sido registrado exitosamente.|Si el caso de uso se realiza correctamente, es posible la emisión de boleta o boleta.
+    1. 1.6.   Plantilla de especificación de casos de uso.
+
+      Caso de uso|Descripción|Actor|Pre-Condición|Post-Condición
+      :---:|:---:|:---:|:---:|:---:
+      **Registrar cliente**||||
+      **Visualizar Ordenes**||||
+      **Visualizar Producto**|||
+      **Registrar Venta**||||
+      **Entregar factura**|||
+      **Visualizar Cliente**||
+      **Editar y Eliminar Producto**||
       
-      3. 1.7.   Matriz de trazabilidad de los requerimientos y casos de uso.
+      1. 1.7.   Matriz de trazabilidad de los requerimientos y casos de uso.
         Matriz de trazabilidad de requerimientos
 
          **Software de Venta de Medicamentos de una farmacia en Lima y Callao - 2022**
             Requerimientos funciones |0|0|0|0|0
             :---:|:---:|:---:|:---:|:---:|:---:
-            ---|RF01 Registrarr Usuario|RF02 Gestionar Usuario|  ----  RF03----    Resgistar Medicamentos|--RF04--Eliminar pedido|--RF05--visualizar factura
-            identificar requisitos|---|x|x|x|---
-            Analizar los requisitos|---|x|x|x|---
-            Especificar los requisitos|x|---|x|x|---
-            Representar los requisitos|x|---|x|x|---
-            Validar los requisitos|x|---|x|x|---
-            Administrar los requisitos|x|---|x|x|x
+            ---|**RF01 →Registrarr Usuario**|**RF02 →Gestionar Usuario**| **RF03 →Resgistar Medicamentos**|**RF04 →Eliminar pedido**|**RF05 →Visualizar factura**
+            **Identificar requisitos**|---|x|x|x|---
+            **Analizar los requisitos**|---|x|x|x|---
+            **Especificar los requisitos**|x|---|x|x|---
+            **Representar los requisitos**|x|---|x|x|---
+            **Validar los requisitos**|x|---|x|x|---
+            **Administrar los requisitos**|x|---|x|x|x
 
-	  7. 1.8. Modelo Conceptual de Clases.
+	  4. 1.8. Modelo Conceptual de Clases.

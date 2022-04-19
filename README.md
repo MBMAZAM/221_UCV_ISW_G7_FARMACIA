@@ -156,8 +156,11 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
       **CU06**|Visualizar Clientes|El sistema permitirá visualizar los clientes registrados
       **CU07**|Editar y Eliminar producto|El sistema permitirá editar y eliminar producto registrado
 
-	  1. 1.5.   Modelo de Casos de Uso de Requerimientos.
+	1. 1.5.   Modelo de Casos de Uso de Requerimientos.
 	
+	![Modelo-Requerimiento](https://user-images.githubusercontent.com/82491533/163974835-74ace8b1-a47a-4136-af2b-add9040d08da.png)
+
+
 
     1. 1.6.   Plantilla de especificación de casos de uso.
 
@@ -185,4 +188,4 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
           **Validar los requisitos**|x|---|x|x|---
           **Administrar los requisitos**|x|---|x|x|x
 
-	    3. 1.8. Modelo Conceptual de Clases.
+	  3. 1.8. Modelo Conceptual de Clases.

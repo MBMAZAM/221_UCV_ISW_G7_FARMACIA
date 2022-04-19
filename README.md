@@ -185,4 +185,4 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
           **Validar los requisitos**|x|---|x|x|---
           **Administrar los requisitos**|x|---|x|x|x
 
-	    3. 1.8. Modelo Conceptual de Clases.
+	  3. 1.8. Modelo Conceptual de Clases.

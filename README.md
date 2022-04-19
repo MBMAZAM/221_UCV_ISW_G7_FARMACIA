@@ -99,11 +99,15 @@ La farmacia “Sellpast” no contaba con un sistema informático que coadyuve e
        ![image](https://user-images.githubusercontent.com/103221118/163880893-3b605fb7-bc4f-4b69-b811-85d1a47e6460.png)
 
   
-       7. 6.5. Cronograma de Actividades 
+      
+
+
+
+
    
 2. ASPECTOS DEL NEGOCIO
 
-   2. 1 PROBLEMÁTICA ACTUAL ó ANÁLISIS SITUACIONAL
+   1. 1 PROBLEMÁTICA ACTUAL ó ANÁLISIS SITUACIONAL
         
 	Desde hace un par de meses una nueva botica se inauguró en el distrito de Comas, llamada "Botica RyG", brindando servicio de diferentes medicamentos de marca, genéricos y algunas otras cosas. Estuvieron vendiendo por 4 meses pero las ventas eran cada vez más bajas, por ser nuevos y no tener experiencias han presentado diferentes inconvenientes, como la entrega errónea de medicamentos a los clientes, no poder registrar los medicamentos que se venden, no tener un registro de cuánto se ha ganado al mes y qué medicamentos faltan. 
 De acuerdo con lo investigado, se planteamos un diseño de un modelo de un sistema de información para el control de inventario con el fin de disminuir los errores que se pueden cometer en la venta y registro de medicamentos a los clientes de la "Botica RyG".
@@ -185,7 +189,7 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
           **Analizar los requisitos**|---|x|x|x|---
           **Especificar los requisitos**|x|---|x|x|---
           **Representar los requisitos**|x|---|x|x|---
-          **Validar los requisitos**|x|---|x|x|---
+           **Validar los requisitos**|x|---|x|x|---
           **Administrar los requisitos**|x|---|x|x|x
 
 	  3. 1.8. Modelo Conceptual de Clases.

@@ -185,3 +185,5 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
 
 	  7. 1.8. Modelo Conceptual de Clases.
 
+![Imagen modelo conceptual](blob:https://web.whatsapp.com/29e8aedd-16e3-421b-a514-821222137785)
+

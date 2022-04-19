@@ -1,11 +1,13 @@
 ![Logo UCV](https://ucv.blackboard.com/branding/_1_1/loginLogo/CustomLoginLogo.png?m=k9sq4hbz)
 
-# FACULTAD DE INGENIERÍA Y ARQUITECTURA ESCUELA PROFESIONAL DE INGENIERÍA DE SISTEMAS
+
+# **FACULTAD DE INGENIERÍA Y ARQUITECTURA ESCUELA PROFESIONAL DE INGENIERÍA DE SISTEMAS**
+
 
 ## Software de Venta de Medicamentos de una farmacia en Lima y Callao - 2022
-
+<br><br>
 ### DOCENTE: RICHARD LEONARDO BERROCAL NAVARRO
-### ORCID: 0000-0001-8718-3150
+### ORCID: 0000-0001-8718-3150  <br><br>
 ## EQUIPO Nro. 7
 
 * Maza Huamani Mauricio Brayar (0000-0002-9447-6098)
@@ -144,44 +146,43 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
         **Administradora**|Gestionar y administrar|Su responsabilidad es mantener las cosas en orden y apoyo en la venta
 	1. 1.4.   Relación de casos de uso, cuadro indicando:
    
+      Nro|Caso de uso|Descripción
+      :---:|:---:|:----: 
+      **CU01**|Registrar cliente|El sistema permitirá registrar al cliente donde debe suministrar datos como: DNI, Nombre, Apellidos, E-mail, Numero celular y contraseña.
+      **CU02**|Visualizar Ordenes|El sistema permitira visualizar las ordenes de productos
+      **CU03**|Visualizar Productos|El sistema permitira visualizar los productos que estan disponibles
+      **CU04**|Registrar venta|El sistema permitirá registrar la venta para que sea guardado en la base de datos
+      **CU05**|Entregar factura|El sistema permitirá al vendedor entregar registro de factura.
+      **CU06**|Visualizar Clientes|El sistema permitirá visualizar los clientes registrados
+      **CU07**|Editar y Eliminar producto|El sistema permitirá editar y eliminar producto registrado
 
-        Nro.|Caso de uso|Descripción
-        :---:|:---:|:----: 
-        **CU01**|Registrar cliente|El sistema permitirá registrar al cliente donde debe suministrar datos como: DNI, Nombre, Apellidos, E-mail, Numero celular y contraseña.
-        **CU02**|Visualizar Ordenes|El sistema permitira visualizar las ordenes de productos
-        **CU03**|Visualizar Productos|El sistema permitira visualizar los productos que estan disponibles
-        **CU04**|Registrar venta|El sistema permitirá al vendedor registrar la venta para que sea guardado en la base de datos
-        **CU05**|Entregar factura|El sistema permitirá al vendedor entregar registro de factura.
-        **CU06**|Visualizar Clientes|El sistema permitirá visualizar los clientes registrados
-        **CU07**|Editar y Eliminar producto|El sistema permitirá editar y eliminar producto registrado
-
-	  3. 1.5.   Modelo de Casos de Uso de Requerimientos.
+	  1. 1.5.   Modelo de Casos de Uso de Requerimientos.
 	
 
     1. 1.6.   Plantilla de especificación de casos de uso.
 
       Caso de uso|Descripción|Actor|Pre-Condición|Post-Condición
       :---:|:---:|:---:|:---:|:---:
-      **Registrar cliente**||||
-      **Visualizar Ordenes**||||
-      **Visualizar Producto**|||
-      **Registrar Venta**||||
-      **Entregar factura**|||
-      **Visualizar Cliente**||
-      **Editar y Eliminar Producto**||
-      
-      1. 1.7.   Matriz de trazabilidad de los requerimientos y casos de uso.
-        Matriz de trazabilidad de requerimientos
+      **Registrar cliente**| El sistema permitirá registrar al cliente|Tecnico de Farmacia|Debe tener todos los datos del cliente|El cliente podra realizar el pago del producto
+      **Visualizar Ordenes**|El sistema permitira visualizar las ordenes de productos|Tecnico de Farmacia|Debe haber una order realizada|Se podra ver los productos que han solicitado
+      **Visualizar Producto**|El sistema permitira visualizar los productos que estan disponibles|Tecnico de Farmacia|Tiene que estar registrado los productos en el inventario|Permite saber que producto tenemos
+      **Registrar Venta**|El sistema permitirá registrar la venta|Tecnico de Farmacia|Saber que productos se van adquirir|Se podra registrar la venta de los productos
+      **Entregar factura**|El sistema permitirá al vendedor entregar registro de factura|Tecnico de Farmacia|Que el pedido hay sido cancelado|Entrega de factura de los productos comprados
+      **Visualizar Cliente**|El sistema permitirá visualizar los clientes registrados|Tecnico de Farmacia|Debe haber clientes registrados posteriormente|Despues se podra observar todos los clientes registrados por el sistema
+      **Editar y Eliminar Producto**|El sistema permitirá editar y eliminar producto registrado|Tecnico de Farmacia|Debio registrarse la venta |Se permitira la edición o eliminacion del producto o venta
 
+      3. 1.7.   Matriz de trazabilidad de los requerimientos y casos de uso.
+        Matriz de trazabilidad de requerimientos <br> <br>
          **Software de Venta de Medicamentos de una farmacia en Lima y Callao - 2022**
-            Requerimientos funciones |0|0|0|0|0
-            :---:|:---:|:---:|:---:|:---:|:---:
-            ---|**RF01 →Registrarr Usuario**|**RF02 →Gestionar Usuario**| **RF03 →Resgistar Medicamentos**|**RF04 →Eliminar pedido**|**RF05 →Visualizar factura**
-            **Identificar requisitos**|---|x|x|x|---
-            **Analizar los requisitos**|---|x|x|x|---
-            **Especificar los requisitos**|x|---|x|x|---
-            **Representar los requisitos**|x|---|x|x|---
-            **Validar los requisitos**|x|---|x|x|---
-            **Administrar los requisitos**|x|---|x|x|x
 
-	  4. 1.8. Modelo Conceptual de Clases.
+          Requerimientos funciones |0|0|0|0|0
+          :---:|:---:|:---:|:---:|:---:|:---:|
+          **---**|**RF01 →Registrarr Usuario**|**RF02 →Gestionar Usuario**| **RF03 →Resgistar Medicamentos**|**RF04 →Eliminar pedido**|**RF05 →Visualizar factura**
+          **Identificar requisitos**|---|x|x|x|---
+          **Analizar los requisitos**|---|x|x|x|---
+          **Especificar los requisitos**|x|---|x|x|---
+          **Representar los requisitos**|x|---|x|x|---
+          **Validar los requisitos**|x|---|x|x|---
+          **Administrar los requisitos**|x|---|x|x|x
+
+	    3. 1.8. Modelo Conceptual de Clases.

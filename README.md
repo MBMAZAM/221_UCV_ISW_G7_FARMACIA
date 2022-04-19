@@ -58,13 +58,13 @@ La farmacia “Sellpast” no contaba con un sistema informático que coadyuve e
        
        Botica RyG Pharma, en el distrito de Comas-Lima-Lima.
        
-       2. 6.2. Recursos Humanos
+       1. 6.2. Recursos Humanos
        
        Estudiantes de la Universidad César Vallejo, Ingeniería de Sistemas del quinto ciclo.
        
        </BR>
        
-       ### 3. 6.3. Software 
+       ### 1. 6.3. Software 
          ### Requisitos de Instalación
          ### Sistemas operativos compatibles
 	 
@@ -73,7 +73,7 @@ La farmacia “Sellpast” no contaba con un sistema informático que coadyuve e
         * XAMPP CONTROL PANEL
         * SQL ACTIVO + APACHE ACTIVO
 
-       ### 3. 6.4. Hardware
+       ### 1. 6.4. Hardware
         ### Arquitecturas compatibles
         * 32 bits (x86)
         * 64 bits (x64)
@@ -99,7 +99,7 @@ La farmacia “Sellpast” no contaba con un sistema informático que coadyuve e
        ![image](https://user-images.githubusercontent.com/103221118/163880893-3b605fb7-bc4f-4b69-b811-85d1a47e6460.png)
 
   
-      
+      ### 1.6.5. Cronograma de Actividades
 
 
 

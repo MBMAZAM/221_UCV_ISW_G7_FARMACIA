@@ -54,7 +54,7 @@ La farmacia “Sellpast” no contaba con un sistema informático que coadyuve e
     1. 6.AMBITO DEL PROYECTO
        1. 6.1. Área 
        
-       Botica RyG, en el distrito de Comas-Lima-Lima.
+       Botica RyG Pharma, en el distrito de Comas-Lima-Lima.
        
        2. 6.2. Recursos Humanos
        

@@ -71,7 +71,7 @@ La farmacia “Sellpast” no contaba con un sistema informático que coadyuve e
         * XAMPP CONTROL PANEL
         * SQL ACTIVO + APACHE ACTIVO
 
-       ### 5. 6.4. Hardware
+       ### 3. 6.4. Hardware
          ### Arquitecturas compatibles
         * 32 bits (x86)
         * 64 bits (x64)
@@ -96,12 +96,12 @@ La farmacia “Sellpast” no contaba con un sistema informático que coadyuve e
         ### Instalación base de datos:
        ![image](https://user-images.githubusercontent.com/103221118/163880893-3b605fb7-bc4f-4b69-b811-85d1a47e6460.png)
 
-       
-       7. 6.5. Cronograma de Actividades   br_spaces
+  
+       7. 6.5. Cronograma de Actividades 
    
 2. ASPECTOS DEL NEGOCIO
 
-   1. 1 PROBLEMÁTICA ACTUAL ó ANÁLISIS SITUACIONAL
+   2. 1 PROBLEMÁTICA ACTUAL ó ANÁLISIS SITUACIONAL
         
 	Desde hace un par de meses una nueva botica se inauguró en el distrito de Comas, llamada "Botica RyG", brindando servicio de diferentes medicamentos de marca, genéricos y algunas otras cosas. Estuvieron vendiendo por 4 meses pero las ventas eran cada vez más bajas, por ser nuevos y no tener experiencias han presentado diferentes inconvenientes, como la entrega errónea de medicamentos a los clientes, no poder registrar los medicamentos que se venden, no tener un registro de cuánto se ha ganado al mes y qué medicamentos faltan. 
 De acuerdo con lo investigado, se planteamos un diseño de un modelo de un sistema de información para el control de inventario con el fin de disminuir los errores que se pueden cometer en la venta y registro de medicamentos a los clientes de la "Botica RyG".
@@ -124,7 +124,7 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
            
            
 
-      	  1. 1.2.   Cuadro de requerimientos no funcionales, indicando: identificativo, nombre y descripción.
+      	  3. 1.2.   Cuadro de requerimientos no funcionales, indicando: identificativo, nombre y descripción.
 
             Identificativo|Nombre|Descripción
             :---:|:---:|:---:
@@ -136,13 +136,13 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
 
 
 
-    1. 1.3.   Relación de actores y su descripción, cuadro indicando
+    3. 1.3.   Relación de actores y su descripción, cuadro indicando
 
         Actor|Asignado a|Responsabilidad
         :---:|:---:|:----:
         Jefe de Venta|Se encarga de realizar la venta, registro de medicamento y cliente|Su responsabilidad es manejar el sistema directamenta para poder generar la venta
         Jefe de Logistica|Se encarga de preparar el pedido|Su responsabilidad es la de mantener las productos en stock
-	1. 1.4.   Relación de casos de uso, cuadro indicando:
+	3. 1.4.   Relación de casos de uso, cuadro indicando:
    
 
         Nro.|Caso de uso|Descripción
@@ -154,10 +154,13 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
         CU05|Venden Producto|
         CU06|Entregar boleta o Factura|
 
-	  1. 1.4.   Relación de casos de uso, cuadro indicando:
-	  2. 1.5.   Modelo de Casos de Uso de Requerimientos.
+
+	  3. 1.5.   Modelo de Casos de Uso de Requerimientos.
 	
-	  4. 1.6.   Plantilla de especificación de casos de uso.
+	  
+		   
+
+3. 1.6.   Plantilla de especificación de casos de uso.
 		    Caso de uso|Descripción|Actor|Pre-Condición|Post-Condición
 		   :---:|:---:|:---:|:---:|:---:
 		   Consulta de Producto|Se inicia cuando el cliente solicita un producto en la farmacia.|Cliente|---|---
@@ -165,15 +168,8 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
 		   Cambio de Producto|Se realiza cuando cliente desea un cambio de producto por motivos que podría tener.|Vendedor, Cliente|Que el cliente tenga algún motivo para el cambio del producto.|Si todo está correcto y el vendedor con el cliente llegan a un acuerdo se realiza el cambio de producto.
 		  Registro de Clientes|SeSi todo está correcto y el vendedor con el cliente llegan a un acuerdo se realiza el cambio de producto. realiza cuando el cliente realiza la compra y tiene que proceder a pagar el producto y el encargado de caja tiene que registrar sus datos.|Vendedor, Caja|Que el cliente proceda a hacer pago de la compra.|Si el caso de uso se realiza correctamente, es posible el registro de clientes.
 		  Emisión de Boleta o Factura |Se realiza cuando la venta del producto ya llega a la parte final.|Vendedor, Caja, Cliente|Que el cliente haya sido registrado exitosamente.|Si el caso de uso se realiza correctamente, es posible la emisión de boleta o boleta.
-		   
-      1. 1.7.   Matriz de trazabilidad de los requerimientos y casos de uso.
-        Matriz de trazabilidad de requerimientos
-
-	  5. 1.5.   Modelo de Casos de Uso de Requerimientos.
-
-
-	  6. 1.6.   Plantilla de especificación de casos de uso.
-      1. 1.7.   Matriz de trazabilidad de los requerimientos y casos de uso.
+      
+      3. 1.7.   Matriz de trazabilidad de los requerimientos y casos de uso.
         Matriz de trazabilidad de requerimientos
 
          **Software de Venta de Medicamentos de una farmacia en Lima y Callao - 2022**

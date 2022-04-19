@@ -101,6 +101,8 @@ La farmacia “Sellpast” no contaba con un sistema informático que coadyuve e
   
       ### 1.6.5. Cronograma de Actividades
 
+	![Cronograma](https://user-images.githubusercontent.com/82491533/164119852-56e52543-7483-47ed-b243-26e4598923b4.jpeg)
+	
 
 
 

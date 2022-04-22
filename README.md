@@ -1,11 +1,13 @@
 ![Logo UCV](https://ucv.blackboard.com/branding/_1_1/loginLogo/CustomLoginLogo.png?m=k9sq4hbz)
 
-# FACULTAD DE INGENIERÍA Y ARQUITECTURA ESCUELA PROFESIONAL DE INGENIERÍA DE SISTEMAS
+
+# **FACULTAD DE INGENIERÍA Y ARQUITECTURA ESCUELA PROFESIONAL DE INGENIERÍA DE SISTEMAS**
+
 
 ## Software de Venta de Medicamentos de una farmacia en Lima y Callao - 2022
-
+<br><br>
 ### DOCENTE: RICHARD LEONARDO BERROCAL NAVARRO
-### ORCID: 0000-0001-8718-3150
+### ORCID: 0000-0001-8718-3150  <br><br>
 ## EQUIPO Nro. 7
 
 * Maza Huamani Mauricio Brayar (0000-0002-9447-6098)
@@ -41,7 +43,7 @@ La farmacia “Sellpast” no contaba con un sistema informático que coadyuve e
   
   
     3. 3.OBJETIVO
-        1. Nuestro objetivo es consolidarnos como equipo durante el proceso y al culminar el trabajo, teniendo en cuenta el potencial y calidad de estudiantes que tenemos como responsables, enfocarnos en cumplir las necesidades del negocio y asi pueda notar un gran avance, tambien como proyeccion de poder brindar un excelente software para cumplir con los requerimientos necesarios del negocio y aumentar el avance semana tras semana.
+        1. Nuestro objetivo es consolidarnos como equipo durante el proceso y tambien al culminar el trabajo, teniendo en cuenta el potencial y calidad de estudiantes que tenemos como responsables, tambien como proyeccion de poder brindar un excelente software para cumplir con los requerimientos necesarios del proyecto y aumentar productividad semana tras semana.
         
     4. 4.ANTECEDENTES
         1. Según Pacompia López, Eduardo; Sarmiento Zapana y José (2016). **Implementación de un Sistema de Información, Basado en la Metodología RUP, para Mejorar el Proceso de Ventas en la Empresa CYNERGY DATA**. Tesis para optar el Título Profesional de Ingeniero de Sistemas. Universidad Autónoma del Perú. Lima. La investigación que se desarrolló el 2016 en CYNERGY DATA S.A.C empresa que se dedica al sector de venta de equipos de cómputo y servicio de soluciones tecnológicas, la investigación es aplicada, tuvo como objetivo implementar un software de ventas, basado en la metodología RUP y el UML para el análisis y diseño del sistema, garantizando un aplicativo jerarquizado basado en las necesidades de los clientes, el sistema de ventas integra las actividades, reportes detallados. Posterior a la implantación de la aplicación informática se consiguió optimizar el proceso de venta, la carga de datos redujo el tiempo en atención de venta en 40,95%; redujo el tiempo en la generación de reportes en un 50%; el control interno de almacén se realiza por medio de un kardex valorizado controlando un 100% sus productos. 
@@ -54,15 +56,56 @@ La farmacia “Sellpast” no contaba con un sistema informático que coadyuve e
     1. 6.AMBITO DEL PROYECTO
        1. 6.1. Área 
        
-       Botica RyG, en el distrito de Comas-Lima-Lima.
+       Botica RyG Pharma, en el distrito de Comas-Lima-Lima.
        
        1. 6.2. Recursos Humanos
        
        Estudiantes de la Universidad César Vallejo, Ingeniería de Sistemas del quinto ciclo.
        
-       1. 6.3. Software 
-       2. 6.4. Hardware
-       3. 6.5. Cronograma de Actividades   br_spaces
+       </BR>
+       
+       ### 1. 6.3. Software 
+         ### Requisitos de Instalación
+         ### Sistemas operativos compatibles
+	 
+        * Windows 7 (x86 y x64)
+        * Windows 10 (x86 y x64)
+        * XAMPP CONTROL PANEL
+        * SQL ACTIVO + APACHE ACTIVO
+
+       ### 1. 6.4. Hardware
+        ### Arquitecturas compatibles
+        * 32 bits (x86)
+        * 64 bits (x64)
+         ### Requisitos de hardware
+        * Procesador Dual Core de 3,0 GHz o superior
+        * 4 GB de memoria RAM (1,5 GB si se ejecuta en una máquina virtual)
+        * 10 GB de espacio disponible en disco duro
+        * 5400 RPM de disco duro
+        * Tarjeta de vídeo compatible con DirectX 9 o 10 con una ejecución de resolución 
+          de pantalla de 1024 x 768 o superior
+       </BR>
+       
+        ###  Pasos de la instalación y Configuración 
+       
+       ![image](https://user-images.githubusercontent.com/103221118/163880621-bcc2f2c8-4bc6-49c5-aad2-6851ed9ca4c7.png)
+       ![image](https://user-images.githubusercontent.com/103221118/163880667-d44b9035-44a8-454e-8c1a-0a25ab5d6b61.png)
+       ![image](https://user-images.githubusercontent.com/103221118/163880693-1b9e2e28-4f55-4c9f-a9fe-350045cf55d8.png)
+       ![image](https://user-images.githubusercontent.com/103221118/163880735-4aac17af-d94c-4fe9-8ed3-07e4e493fec9.png)
+       ![image](https://user-images.githubusercontent.com/103221118/163880783-f3da02a1-df8e-4eab-a523-b8322e561897.png)
+       ![image](https://user-images.githubusercontent.com/103221118/163880828-cf0f014f-6e0a-41ad-b337-53659ddcbae2.png)
+       
+        ### Instalación base de datos:
+       ![image](https://user-images.githubusercontent.com/103221118/163880893-3b605fb7-bc4f-4b69-b811-85d1a47e6460.png)
+
+  
+      ### 1.6.5. Cronograma de Actividades
+
+	![Cronograma](https://user-images.githubusercontent.com/82491533/164119852-56e52543-7483-47ed-b243-26e4598923b4.jpeg)
+	
+
+
+
    
 2. ASPECTOS DEL NEGOCIO
 
@@ -79,13 +122,15 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
 
            Identificativo|Nombre|Descripción
            :---:|:---:|:---:
-           **RF01**|Registrar Usuario|El sistema permitirá registrar. El usuario debe suministrar datos como: DNI, Nombre, Apellidos, E-mail, Numero celular y contraseña.
-           **RF02**|Gestionar Usuario|El vendedor o el operario, podrá modificar los datos de los usuarios
-           **RF03**|Registrar medicamento|El sistema permitirá al usuario registrar los medicamento para que sea guardado en la base de datos
-           **RF04**|Eliminar Pedido|El sistema permitirá al usuario eliminar pedido de medicamentos.
-           **RF05**|Visualizar factura|El sistema permitirá al usuario consultar registro de factura.
+           **RF01**|Registrar cliente|Necesito que el sistema registre al cliente
+           **RF02**|Visualizar Ordenes|Necesito que el sistema permita visualizar las ordenes de productos
+           **RF03**|Visualizar Productos|necesito que el sistema permita visualizar los productos que estan disponibles
+           **RF04**|Registrar venta|Necesito que el sistema permita registrar la venta
+           **RF05**|Entregar factura|Necestio que el sistema permita entregar registro de factura.
+           **RF06**|Visualizar Clientes|Necesito que el sistema permita visualizar los clientes registrados
+           **RF07**|Editar y Eliminar producto|Necesito que el sistema permita editar y eliminar producto registrado
 
-      	  3. 1.2.   Cuadro de requerimientos no funcionales, indicando: identificativo, nombre y descripción.
+      	  1. 1.2.   Cuadro de requerimientos no funcionales, indicando: identificativo, nombre y descripción.
 
             Identificativo|Nombre|Descripción
             :---:|:---:|:---:
@@ -94,39 +139,60 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
             **RNF03**|Escalabilidad|El sistema debe poderse ampliar en cuanto al desarrollo para permitir avances futuros en el software.
             **RNF04**|Rendimiento|El sistema debe de ser capaz de mantener la velocidad de respuesta aun cuando este se encuentre con muchas solicitudes.
             **RNF05**|Usabilidad|La interacción del usuario con el sistema debe ser lo más intuitiva posible, siendo de manera que este no necesite ayuda para hacer uso del mismo, y que le dé una experiencia agradable de uso.
+            **RNF06**|XAMPP|Utilizaremos la herramienta XAMPP para poder abrir el programa.
+            **RNF07**|PHP|El sistema esta elevadorado en lenguaje PHP.
 
 
 
-      3. 1.3.   Relación de actores y su descripción, cuadro indicando
+    1. 1.3.   Relación de actores y su descripción, cuadro indicando
+
+        Actor|Asignado a|Responsabilidad
+        :---:|:---:|:----:
+        **Tecnica de Farmacia**|realizar la venta, registro de medicamento y cliente|Su responsabilidad es manejar el sistema directamenta para poder generar la venta.
+        **Administradora**|Gestionar y administrar|Su responsabilidad es mantener las cosas en orden y apoyo en la venta
+	1. 1.4.   Relación de casos de uso, cuadro indicando:
    
-	  3. 1.4.   Relación de casos de uso, cuadro indicando:
-	  3. 1.5.   Modelo de Casos de Uso de Requerimientos.
-	  3. 1.6.   Plantilla de especificación de casos de uso.
+      Nro|Caso de uso|Descripción
+      :---:|:---:|:----: 
+      **CU01**|Registrar cliente|El sistema permitirá registrar al cliente donde debe suministrar datos como: DNI, Nombre, Apellidos, E-mail, Numero celular y contraseña.
+      **CU02**|Visualizar Ordenes|El sistema permitira visualizar las ordenes de productos
+      **CU03**|Visualizar Productos|El sistema permitira visualizar los productos que estan disponibles
+      **CU04**|Registrar venta|El sistema permitirá registrar la venta para que sea guardado en la base de datos
+      **CU05**|Entregar factura|El sistema permitirá al vendedor entregar registro de factura.
+      **CU06**|Visualizar Clientes|El sistema permitirá visualizar los clientes registrados
+      **CU07**|Editar y Eliminar producto|El sistema permitirá editar y eliminar producto registrado
+
+	1. 1.5.   Modelo de Casos de Uso de Requerimientos.
+	
+	![Caso-Requerimiento](https://user-images.githubusercontent.com/82491533/164125555-80655242-9656-4f23-bb4c-c4791f067441.jpeg)
+
+
+
+
+    1. 1.6.   Plantilla de especificación de casos de uso.
+
+      Caso de uso|Descripción|Actor|Pre-Condición|Post-Condición
+      :---:|:---:|:---:|:---:|:---:
+      **Registrar cliente**| El sistema permitirá registrar al cliente|Tecnico de Farmacia|Debe tener todos los datos del cliente|El cliente podra realizar el pago del producto
+      **Visualizar Ordenes**|El sistema permitira visualizar las ordenes de productos|Tecnico de Farmacia|Debe haber una order realizada|Se podra ver los productos que han solicitado
+      **Visualizar Producto**|El sistema permitira visualizar los productos que estan disponibles|Tecnico de Farmacia|Tiene que estar registrado los productos en el inventario|Permite saber que producto tenemos
+      **Registrar Venta**|El sistema permitirá registrar la venta|Tecnico de Farmacia|Saber que productos se van adquirir|Se podra registrar la venta de los productos
+      **Entregar factura**|El sistema permitirá al vendedor entregar registro de factura|Tecnico de Farmacia|Que el pedido hay sido cancelado|Entrega de factura de los productos comprados
+      **Visualizar Cliente**|El sistema permitirá visualizar los clientes registrados|Tecnico de Farmacia|Debe haber clientes registrados posteriormente|Despues se podra observar todos los clientes registrados por el sistema
+      **Editar y Eliminar Producto**|El sistema permitirá editar y eliminar producto registrado|Tecnico de Farmacia|Debio registrarse la venta |Se permitira la edición o eliminacion del producto o venta
+
       3. 1.7.   Matriz de trazabilidad de los requerimientos y casos de uso.
-        Matriz de trazabilidad de requerimientos
+        Matriz de trazabilidad de requerimientos <br> <br>
+         **Software de Venta de Medicamentos de una farmacia en Lima y Callao - 2022**
 
-               **Software de Venta de Medicamentos de una farmacia en Lima y Callao - 2022**
-                
+          Requerimientos funciones |0|0|0|0|0
+          :---:|:---:|:---:|:---:|:---:|:---:|
+          **---**|**RF01 →Registrarr Usuario**|**RF02 →Gestionar Usuario**| **RF03 →Resgistar Medicamentos**|**RF04 →Eliminar pedido**|**RF05 →Visualizar factura**
+          **Identificar requisitos**|---|x|x|x|---
+          **Analizar los requisitos**|---|x|x|x|---
+          **Especificar los requisitos**|x|---|x|x|---
+          **Representar los requisitos**|x|---|x|x|---
+           **Validar los requisitos**|x|---|x|x|---
+          **Administrar los requisitos**|x|---|x|x|x
 
-
-Requerimientos funciones |0|0|0|0|0
-:---:|:---:|:---:|:---:|:---:|:---:
----|RF01 Registrarr Usuario|RF02 Gestionar Usuario|  ----  RF03----    Resgistar Medicamentos|--RF04--Eliminar pedido|--RF05--visualizar factura
-identificar requisitos|---|x|x|x|---
-Analizar los requisitos|---|x|x|x|---
-Especificar los requisitos|x|---|x|x|---
-Representar los requisitos|x|---|x|x|---
-Validar los requisitos|x|---|x|x|---
-Administrar los requisitos|x|---|x|x|x
-
-        
-        
-        
-        
-
-
-
-        
-
-	  1. 1.8. Modelo Conceptual de Clases.
-
+	  3. 1.8. Modelo Conceptual de Clases.

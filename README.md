@@ -164,7 +164,8 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
 
 	1. 1.5.   Modelo de Casos de Uso de Requerimientos.
 	
-	![Requerimientos](https://user-images.githubusercontent.com/82491533/164883822-8f8345b6-a84b-47bd-a6a7-b4bc7882e5ff.jpeg)
+	![Modelo Requerimientos](https://user-images.githubusercontent.com/82491533/164885640-b8248f4a-860c-4618-a604-8f194889a053.jpeg)
+
 
 
 

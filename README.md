@@ -166,7 +166,7 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
 
 	2. 1.5.   Modelo de Casos de Uso de Requerimientos.
 	
-	
+	![Modelo](https://user-images.githubusercontent.com/82491533/164886023-a17fe9ad-d083-4076-b9a2-b92e9b318196.jpeg)
 
 
 
@@ -191,8 +191,8 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
          **Software de Venta de Medicamentos de una farmacia en Lima y Callao - 2022**
 
           Requerimientos funciones |0|0|0|0|0|0|0|0|
-          :---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|:---:
-          **---**|**RF01 →Registrar Usuario**|**RF02 →Visualizar Ordenes**| **RF03 →Visualizar Producto**|**RF04 →Registrar Productos**|**RF05 →Entregar factura**|**RF06 →Visualizar Usuarios**|**RF07 →Visualizar Usuarios**| **RF08 →Editar O Eliminar Producto**|**RF09 →Revisar inventario vendido**
+          :---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:
+          **---**|**RF01 →Registrar Usuario**|**RF02 →Visualizar Ordenes**| **RF03 →Visualizar Producto**|**RF04 →Registrar Productos**|**RF05 →Entregar    factura**|**RF06 →Visualizar Usuarios**|**RF07 →Visualizar Usuarios**| **RF08 →Editar O Eliminar Producto**|**RF09 →Revisar inventario vendido**
           **Identificar requisitos**|---|x|x|x|---
           **Analizar los requisitos**|---|x|x|x|---
           **Especificar los requisitos**|x|---|x|x|---

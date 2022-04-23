@@ -172,13 +172,15 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
 
       Caso de uso|Descripción|Actor|Pre-Condición|Post-Condición
       :---:|:---:|:---:|:---:|:---:
-      **Registrar cliente**| El sistema permitirá registrar al cliente|Tecnico de Farmacia|Debe tener todos los datos del cliente|El cliente podra realizar el pago del producto
+      **Registrar Usuario**| El sistema permitirá registrar al usuario|Tecnico de Farmacia|Debe tener todos los datos del cliente|El cliente podra realizar el pago del producto
       **Visualizar Ordenes**|El sistema permitira visualizar las ordenes de productos|Tecnico de Farmacia|Debe haber una order realizada|Se podra ver los productos que han solicitado
       **Visualizar Producto**|El sistema permitira visualizar los productos que estan disponibles|Tecnico de Farmacia|Tiene que estar registrado los productos en el inventario|Permite saber que producto tenemos
-      **Registrar Venta**|El sistema permitirá registrar la venta|Tecnico de Farmacia|Saber que productos se van adquirir|Se podra registrar la venta de los productos
-      **Entregar factura**|El sistema permitirá al vendedor entregar registro de factura|Tecnico de Farmacia|Que el pedido hay sido cancelado|Entrega de factura de los productos comprados
-      **Visualizar Cliente**|El sistema permitirá visualizar los clientes registrados|Tecnico de Farmacia|Debe haber clientes registrados posteriormente|Despues se podra observar todos los clientes registrados por el sistema
-      **Editar y Eliminar Producto**|El sistema permitirá editar y eliminar producto registrado|Tecnico de Farmacia|Debio registrarse la venta |Se permitira la edición o eliminacion del producto o venta
+      **Registrar Productos**|El sistema permitirá registrar la venta|Tecnico de Farmacia|Saber que productos se van adquirir|Se podra registrar la venta de los productos
+      **Entregar factura**|El sistema permitirá entregar registro de factura|Tecnico de Farmacia|Que el pedido hay sido cancelado|Entrega de factura de los productos comprados
+      **Visualizar Usuarios**|El sistema permitirá visualizar los clientes registrados|Tecnico de Farmacia|Debe haber clientes registrados posteriormente|Despues se podra observar todos los clientes registrados por el sistema
+      **Editar y Eliminar Producto**|El sistema permitirá editar y eliminar producto registrado|Administradora||
+      **Registrar Producto**|El sistema permitirá registrar producto |Administradora||
+      **Revisar inventario vendido**|El sistema permitira revisar el inventario vendido|Administradora||
 
       3. 1.7.   Matriz de trazabilidad de los requerimientos y casos de uso.
         Matriz de trazabilidad de requerimientos <br> <br>

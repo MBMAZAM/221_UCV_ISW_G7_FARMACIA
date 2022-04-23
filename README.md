@@ -166,7 +166,7 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
 
 	2. 1.5.   Modelo de Casos de Uso de Requerimientos.
 	
-	![Modelo Requerimientos](https://user-images.githubusercontent.com/82491533/164885640-b8248f4a-860c-4618-a604-8f194889a053.jpeg)
+	
 
 
 
@@ -182,17 +182,17 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
       **Registrar Productos**|El sistema permitirá registrar la venta|Tecnico de Farmacia|Saber que productos se van adquirir|Se podra registrar la venta de los productos
       **Entregar factura**|El sistema permitirá entregar registro de factura|Tecnico de Farmacia|Que el pedido hay sido cancelado|Entrega de factura de los productos comprados
       **Visualizar Usuarios**|El sistema permitirá visualizar los clientes registrados|Tecnico de Farmacia|Debe haber clientes registrados posteriormente|Despues se podra observar todos los clientes registrados por el sistema
-      **Editar y Eliminar Producto**|El sistema permitirá editar y eliminar producto registrado|Administradora||
+      **Editar O Eliminar Producto**|El sistema permitirá editar O eliminar producto registrado|Administradora||
       **Registrar Producto**|El sistema permitirá registrar producto |Administradora||
       **Revisar inventario vendido**|El sistema permitira revisar el inventario vendido|Administradora||
 
-      3. 1.7.   Matriz de trazabilidad de los requerimientos y casos de uso.
+      1. 1.7.   Matriz de trazabilidad de los requerimientos y casos de uso.
         Matriz de trazabilidad de requerimientos <br> <br>
          **Software de Venta de Medicamentos de una farmacia en Lima y Callao - 2022**
 
-          Requerimientos funciones |0|0|0|0|0
-          :---:|:---:|:---:|:---:|:---:|:---:|
-          **---**|**RF01 →Registrarr Usuario**|**RF02 →Gestionar Usuario**| **RF03 →Resgistar Medicamentos**|**RF04 →Eliminar pedido**|**RF05 →Visualizar factura**
+          Requerimientos funciones |0|0|0|0|0|0|0|0|
+          :---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|:---:
+          **---**|**RF01 →Registrar Usuario**|**RF02 →Visualizar Ordenes**| **RF03 →Visualizar Producto**|**RF04 →Registrar Productos**|**RF05 →Entregar factura**|**RF06 →Visualizar Usuarios**|**RF07 →Visualizar Usuarios**| **RF08 →Editar O Eliminar Producto**|**RF09 →Revisar inventario vendido**
           **Identificar requisitos**|---|x|x|x|---
           **Analizar los requisitos**|---|x|x|x|---
           **Especificar los requisitos**|x|---|x|x|---
@@ -200,4 +200,4 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
            **Validar los requisitos**|x|---|x|x|---
           **Administrar los requisitos**|x|---|x|x|x
 
-	  3. 1.8. Modelo Conceptual de Clases.
+	  1. 1.8. Modelo Conceptual de Clases.

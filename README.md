@@ -150,8 +150,9 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
         :---:|:---:|:----:
         **Tecnica de Farmacia**|realizar la venta, registro de medicamento y cliente|Su responsabilidad es manejar el sistema directamenta para poder generar la venta.
         **Administradora**|Gestionar y administrar|Su responsabilidad es mantener las cosas en orden y apoyo en la venta
-	1. 1.4.   Relación de casos de uso, cuadro indicando:
+	2. 1.4.   Relación de casos de uso, cuadro indicando:
    
+
       Nro|Caso de uso|Descripción
       :---:|:---:|:----: 
       **CU01**|Registrar cliente|El sistema permitirá registrar al cliente donde debe suministrar datos como: DNI, Nombre, Apellidos, E-mail, Numero celular y contraseña.
@@ -161,8 +162,9 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
       **CU05**|Entregar factura|El sistema permitirá al vendedor entregar registro de factura.
       **CU06**|Visualizar Clientes|El sistema permitirá visualizar los clientes registrados
       **CU07**|Editar y Eliminar producto|El sistema permitirá editar y eliminar producto registrado
+    
 
-	1. 1.5.   Modelo de Casos de Uso de Requerimientos.
+	2. 1.5.   Modelo de Casos de Uso de Requerimientos.
 	
 	![Modelo Requerimientos](https://user-images.githubusercontent.com/82491533/164885640-b8248f4a-860c-4618-a604-8f194889a053.jpeg)
 
@@ -170,6 +172,7 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
 
 
     1. 1.6.   Plantilla de especificación de casos de uso.
+
 
       Caso de uso|Descripción|Actor|Pre-Condición|Post-Condición
       :---:|:---:|:---:|:---:|:---:

@@ -155,7 +155,7 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
 
       Nro|Caso de uso|Descripción
       :---:|:---:|:----: 
-      **CU01**|Registrar cliente|El sistema permitirá registrar al cliente donde debe suministrar datos como: DNI, Nombre, Apellidos, E-mail, Numero celular y contraseña.
+      **CU01**|Registrar cliente|El sistema permitirá registrar al cliente donde debe suministrar los datos
       **CU02**|Visualizar Ordenes|El sistema permitira visualizar las ordenes de productos
       **CU03**|Visualizar Productos|El sistema permitira visualizar los productos que estan disponibles
       **CU04**|Registrar venta|El sistema permitirá registrar la venta para que sea guardado en la base de datos
@@ -164,7 +164,7 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
       **CU07**|Editar y Eliminar producto|El sistema permitirá editar y eliminar producto registrado
     
 
-	2. 1.5.   Modelo de Casos de Uso de Requerimientos.
+	3. 1.5.   Modelo de Casos de Uso de Requerimientos.
 	
 	
 
@@ -179,25 +179,25 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
       **Registrar Usuario**| El sistema permitirá registrar al usuario|Tecnico de Farmacia|Debe tener todos los datos del cliente|El cliente podra realizar el pago del producto
       **Visualizar Ordenes**|El sistema permitira visualizar las ordenes de productos|Tecnico de Farmacia|Debe haber una order realizada|Se podra ver los productos que han solicitado
       **Visualizar Producto**|El sistema permitira visualizar los productos que estan disponibles|Tecnico de Farmacia|Tiene que estar registrado los productos en el inventario|Permite saber que producto tenemos
-      **Registrar Productos**|El sistema permitirá registrar la venta|Tecnico de Farmacia|Saber que productos se van adquirir|Se podra registrar la venta de los productos
-      **Entregar factura**|El sistema permitirá entregar registro de factura|Tecnico de Farmacia|Que el pedido hay sido cancelado|Entrega de factura de los productos comprados
-      **Visualizar Usuarios**|El sistema permitirá visualizar los clientes registrados|Tecnico de Farmacia|Debe haber clientes registrados posteriormente|Despues se podra observar todos los clientes registrados por el sistema
-      **Editar O Eliminar Producto**|El sistema permitirá editar O eliminar producto registrado|Administradora||
-      **Registrar Producto**|El sistema permitirá registrar producto |Administradora||
-      **Revisar inventario vendido**|El sistema permitira revisar el inventario vendido|Administradora||
+      **Registrar Productos**|El sistema permitirá registrar nuevos productos|Administradora|Saber que productos se va registrar|Se podra vizualizar el producto nuevo
+      **Entregar factura o boleta**|El sistema permitirá entregar registro de factura o boleta|Tecnico de Farmacia|Que el pedido hay sido cancelado|Entrega de factura o boleta de los productos comprados
+      **Visualizar Usuarios**|El sistema permitirá visualizar los usuarios registrados|Tecnico de Farmacia|Debe haber usuarios registrados posteriormente|Despues se podra observar todos los usuarios registrados en el sistema
+      **Editar O Eliminar Producto**|El sistema permitirá editar O eliminar producto registrado|Administradora|El producto debe estar en la orden del usuario|Se podra ver la modificacion o eliminación
+      **Solicitar Medicamento**|El sistema permitirá la busqueda del medicamento|Administradora|Debe haber inventario de los medicamentos|Se observa si el producto esta en venta
+      **Revisar inventario vendido**|El sistema permitira revisar el inventario vendido|Administradora|Tiene que haber sido registrado por el tecnico de farmacia|Se podra visualizar todos las ordenes anteriores
 
-      1. 1.7.   Matriz de trazabilidad de los requerimientos y casos de uso.
-        Matriz de trazabilidad de requerimientos <br> <br>
+      1. 1.7.Matriz de trazabilidad de los requerimientos y casos de uso.
+         <br> <br>
          **Software de Venta de Medicamentos de una farmacia en Lima y Callao - 2022**
 
           Requerimientos funciones |0|0|0|0|0|0|0|0|
-          :---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|:---:
+          :---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:
           **---**|**RF01 →Registrar Usuario**|**RF02 →Visualizar Ordenes**| **RF03 →Visualizar Producto**|**RF04 →Registrar Productos**|**RF05 →Entregar factura**|**RF06 →Visualizar Usuarios**|**RF07 →Visualizar Usuarios**| **RF08 →Editar O Eliminar Producto**|**RF09 →Revisar inventario vendido**
-          **Identificar requisitos**|---|x|x|x|---
-          **Analizar los requisitos**|---|x|x|x|---
-          **Especificar los requisitos**|x|---|x|x|---
-          **Representar los requisitos**|x|---|x|x|---
-           **Validar los requisitos**|x|---|x|x|---
-          **Administrar los requisitos**|x|---|x|x|x
+          **Identificar requisitos**||||||||
+          **Analizar los requisitos**||||||||
+          **Especificar los requisitos**|||||||
+          **Representar los requisitos**||||||||
+           **Validar los requisitos**||||||||
+          **Administrar los requisitos**||||||||
 
 	  1. 1.8. Modelo Conceptual de Clases.

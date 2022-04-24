@@ -166,7 +166,7 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
 
 	3. 1.5.   Modelo de Casos de Uso de Requerimientos.
 	
-	
+	![Modelo](https://user-images.githubusercontent.com/82491533/164886023-a17fe9ad-d083-4076-b9a2-b92e9b318196.jpeg)
 
 
 
@@ -182,7 +182,7 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
       **Registrar Productos**|El sistema permitirá registrar nuevos productos|Administradora|Saber que productos se va registrar|Se podra vizualizar el producto nuevo
       **Entregar factura o boleta**|El sistema permitirá entregar registro de factura o boleta|Tecnico de Farmacia|Que el pedido hay sido cancelado|Entrega de factura o boleta de los productos comprados
       **Visualizar Usuarios**|El sistema permitirá visualizar los usuarios registrados|Tecnico de Farmacia|Debe haber usuarios registrados posteriormente|Despues se podra observar todos los usuarios registrados en el sistema
-      **Editar O Eliminar Producto**|El sistema permitirá editar O eliminar producto registrado|Administradora|El producto debe estar en la orden del usuario|Se podra ver la modificacion o eliminación
+      **Editar o Eliminar Producto**|El sistema permitirá editar o eliminar producto registrado|Administradora|El producto debe estar en la orden del usuario|Se podra ver la modificacion o eliminación
       **Solicitar Medicamento**|El sistema permitirá la busqueda del medicamento|Administradora|Debe haber inventario de los medicamentos|Se observa si el producto esta en venta
       **Revisar inventario vendido**|El sistema permitira revisar el inventario vendido|Administradora|Tiene que haber sido registrado por el tecnico de farmacia|Se podra visualizar todos las ordenes anteriores
 
@@ -192,12 +192,13 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
 
           Requerimientos funciones |0|0|0|0|0|0|0|0|
           :---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:
-          **---**|**RF01 →Registrar Usuario**|**RF02 →Visualizar Ordenes**| **RF03 →Visualizar Producto**|**RF04 →Registrar Productos**|**RF05 →Entregar factura**|**RF06 →Visualizar Usuarios**|**RF07 →Visualizar Usuarios**| **RF08 →Editar O Eliminar Producto**|**RF09 →Revisar inventario vendido**
+          **---**|**RF01 →Registrar Usuario**|**RF02 →Visualizar Ordenes**| **RF03 →Visualizar Producto**|**RF04 →Registrar Productos**|**RF05 →Entregar factura**|**RF06 →Visualizar Usuarios**|**RF07 →Visualizar Usuarios**| **RF08 →Editar o Eliminar Producto**|**RF09 →Revisar inventario vendido**
           **Identificar requisitos**||||||||
           **Analizar los requisitos**||||||||
           **Especificar los requisitos**|||||||
           **Representar los requisitos**||||||||
            **Validar los requisitos**||||||||
           **Administrar los requisitos**||||||||
+
 
 	  1. 1.8. Modelo Conceptual de Clases.

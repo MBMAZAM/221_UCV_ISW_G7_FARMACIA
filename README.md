@@ -61,6 +61,16 @@ La farmacia "Botica RyG” no contaba con un sistema informático que coadyuve e
        1. 6.2. Recursos Humanos
        
        Estudiantes de la Universidad César Vallejo, Ingeniería de Sistemas del quinto ciclo.
+
+       |Nombre y Apellido|Cargo|
+       |:---:|:---:|
+        |Juarez Morales Miguel Alonso|Jefe de proyectos/Desarrollador|
+        |Maza Huamani Mauricio Brayar|Editor/Diseñador/Desarrollador|
+        |Ibáñez Del Aguila, Kriss Zuzú|Analista/Desarrollador|
+        |Encalada Jara Debbis santi|Desarrollador/Desarrollador|
+        |Jara Salazar Rodolfo Efrain|Calidad/Desarrollador|
+        |Guerra Sulca Jordyn Junior|Desarrollador|
+
        
        </BR>
        

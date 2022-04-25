@@ -138,6 +138,7 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
            **RF03**|Registrar producto|Necesito que el sistema permita registrar la venta
            **RF04**|Entregar factura o boleta|Necestio que el sistema permita entregar registro de factura o boleta.    
            **RF05**|Editar o Eliminar producto|Necesito que el sistema permita editar o eliminar producto registrado
+	   **RF06**|Revisar Stock|Necesito que el sistema contabilice el stock que se tiene disponible de los productos
 
       	  1. 1.2.   Cuadro de requerimientos no funcionales, indicando: identificativo, nombre y descripción.
 
@@ -175,7 +176,8 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
 
 	3. 1.5.   Modelo de Casos de Uso de Requerimientos.
 	
-	![Modelo-CUS](https://user-images.githubusercontent.com/82491533/165011213-dda2b832-d745-410f-9bba-460da0a86b0d.jpeg)
+	![Modelo-CUS (2)](https://user-images.githubusercontent.com/82491533/165013154-aee74ce0-3fda-4ac4-93de-27011a0d47e9.jpeg)
+
 
 
 
@@ -192,6 +194,8 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
       **Entregar factura o boleta**|El sistema permitirá entregar registro de factura o boleta|Tecnico de Farmacia|Que el pedido hay sido cancelado|Entrega de factura o boleta de los productos comprados
        **Revisar inventario vendido**|El sistema permitira revisar el inventario vendido|Administradora|Tiene que haber sido registrado por el tecnico de farmacia|Se podra visualizar todos las ordenes anteriores
       **Registrar Productos**|El sistema permitirá registrar nuevos productos|Administradora|Saber que productos se va registrar|Se podra vizualizar el producto nuevo       **Editar o Eliminar Producto**|El sistema permitirá editar o eliminar producto registrado|Administradora|El producto debe estar en la orden del usuario|Se podra ver la modificacion o eliminación
+      **Revisar Stock**|El sistema permitirá revisar el stock de los productos|Administradora|El producto debe ser registrado con anterioridad|Se podra modificar el stock del sistema
+      
      
      
 
@@ -199,14 +203,14 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
          <br> <br>
          **Software de Venta de Medicamentos de una farmacia en Lima y Callao - 2022**
 
-          Requerimientos funciones |0|0|0|0|0|0|0|0|
-          :---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:
-          **---**|**RF01 →Buscar Medicamento**|**RF02 →Visualizar Producto**|**RF03 →Visualizar Ordenes**|**RF04 →Entregar factura o boleta**|**RF05 →Revisar inventario vendido**|**RF06 →Registrar Productos**|**RF07 →Editar o Eliminar Producto**|
-          **Identificar requisitos**||||||||
-          **Analizar los requisitos**||||||||
-          **Especificar los requisitos**|||||||
-          **Representar los requisitos**||||||||
-           **Validar los requisitos**||||||||
-          **Administrar los requisitos**||||||||
+          Requerimientos funciones |0|0|0|0|0|0|0|0|0|
+          :---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:
+          **---**|**RF01 →Buscar Medicamento**|**RF02 →Visualizar Producto**|**RF03 →Visualizar Ordenes**|**RF04 →Entregar factura o boleta**|**RF05 →Revisar inventario vendido**|**RF06 →Registrar Productos**|**RF07 →Editar o Eliminar Producto**|**RF08 →Revisar Stock
+          **Identificar requisitos**|||||||||
+          **Analizar los requisitos**|||||||||
+          **Especificar los requisitos**||||||||
+          **Representar los requisitos**|||||||||
+           **Validar los requisitos**|||||||||
+          **Administrar los requisitos**|||||||||
 
 	  1. 1.8. Modelo Conceptual de Clases.

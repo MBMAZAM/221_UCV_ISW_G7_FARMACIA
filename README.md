@@ -169,14 +169,15 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
       **CU02**|Visualizar Productos|El sistema permitira visualizar los productos que estan disponibles
       **CU03**|Visualizar Ordenes|El sistema permitira visualizar las ordenes de productos
       **CU04**|Entregar factura o boleta|El sistema permitirá al vendedor entregar registro de factura o boleta.
-      **CU05**|Revisar Inventario vendido|El sistema permitira mostrar los productos que se han vendido
+      **CU05**|Revisar Inventario|El sistema permitira mostrar los productos del inventario
       **CU06**|Registrar producto|El sistema permitirá registrar la venta para que sea guardado en la base de datos
       **CU07**|Editar o Eliminar producto|El sistema permitirá editar o eliminar producto registrado
     
 
 	3. 1.5.   Modelo de Casos de Uso de Requerimientos.
 	
-	![Modelo-CUS (2)](https://user-images.githubusercontent.com/82491533/165013154-aee74ce0-3fda-4ac4-93de-27011a0d47e9.jpeg)
+	![Modelo-CUS (3)](https://user-images.githubusercontent.com/82491533/165018650-43823880-1179-44bf-b58c-73b4e8b86c89.jpeg)
+
 
 
 
@@ -192,7 +193,7 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
        **Visualizar Producto**|El sistema permitira visualizar los productos que estan disponibles|Tecnico de Farmacia|Tiene que estar registrado los productos en el inventario|Permite saber que producto tenemos
       **Visualizar Ordenes**|El sistema permitira visualizar las ordenes de productos|Tecnico de Farmacia|Debe haber una order realizada|Se podra ver los productos que han solicitado
       **Entregar factura o boleta**|El sistema permitirá entregar registro de factura o boleta|Tecnico de Farmacia|Que el pedido hay sido cancelado|Entrega de factura o boleta de los productos comprados
-       **Revisar inventario vendido**|El sistema permitira revisar el inventario vendido|Administradora|Tiene que haber sido registrado por el tecnico de farmacia|Se podra visualizar todos las ordenes anteriores
+       **Revisar inventario**|El sistema permitira revisar el inventario|Administradora|Tiene que haber sido registrado por el tecnico de farmacia|Se podra visualizar todos las ordenes anteriores
       **Registrar Productos**|El sistema permitirá registrar nuevos productos|Administradora|Saber que productos se va registrar|Se podra vizualizar el producto nuevo       **Editar o Eliminar Producto**|El sistema permitirá editar o eliminar producto registrado|Administradora|El producto debe estar en la orden del usuario|Se podra ver la modificacion o eliminación
       **Revisar Stock**|El sistema permitirá revisar el stock de los productos|Administradora|El producto debe ser registrado con anterioridad|Se podra modificar el stock del sistema
       
@@ -205,7 +206,7 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
 
           Requerimientos funciones |0|0|0|0|0|0|0|0|0|
           :---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:
-          **---**|**RF01 →Buscar Medicamento**|**RF02 →Visualizar Producto**|**RF03 →Visualizar Ordenes**|**RF04 →Entregar factura o boleta**|**RF05 →Revisar inventario vendido**|**RF06 →Registrar Productos**|**RF07 →Editar o Eliminar Producto**|**RF08 →Revisar Stock
+          **---**|**RF01 →Buscar Medicamento**|**RF02 →Visualizar Producto**|**RF03 →Visualizar Ordenes**|**RF04 →Entregar factura o boleta**|**RF05 →Revisar inventario**|**RF06 →Registrar Productos**|**RF07 →Editar o Eliminar Producto**|**RF08 →Revisar Stock
           **Identificar requisitos**|||||||||
           **Analizar los requisitos**|||||||||
           **Especificar los requisitos**||||||||

@@ -277,12 +277,15 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
 
 	  3. 1.8. Modelo Conceptual de Clases.
 
-	![Modelo (2)](https://user-images.githubusercontent.com/82491533/165406887-1a694f1c-7eca-4475-9d9f-6e004e4dca2a.jpeg)
+	![Model](https://user-images.githubusercontent.com/82491533/165407303-b77d7c5e-343b-4ed2-990e-d48b85ebd2fd.jpeg)
+
 
 	
 	3.2. Análisis Orientado a Objetos. 
+	
 	3.2.1. Modelo de Análisis 
-		3.3.1.1. Diagrama de Análisis de Clases 
+
+	  3.3.1.1. Diagrama de Análisis de Clases 
 
 	![Analisis](https://user-images.githubusercontent.com/82491533/165406901-ece2d12e-e662-495f-9946-e1e6d46f5750.jpeg)
 

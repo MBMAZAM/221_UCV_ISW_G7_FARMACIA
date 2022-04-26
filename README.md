@@ -116,7 +116,8 @@ La farmacia "Botica RyG” no contaba con un sistema informático que coadyuve e
   
       ### 1.6.5. Cronograma de Actividades
 
-	![Actividades](https://user-images.githubusercontent.com/82491533/164968342-23db1a3a-2ac8-40eb-b671-14880fb72239.jpeg)
+	![Actividades (2)](https://user-images.githubusercontent.com/82491533/165222754-4a77520a-d5fb-44df-bdc3-701ec7db9cd5.jpeg)
+
 
 	
 
@@ -219,5 +220,6 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
 
 	  3. 1.8. Modelo Conceptual de Clases.
 
-	![Clases](https://user-images.githubusercontent.com/82491533/165019786-790986e6-c01f-4957-aeb0-cce0287544fa.jpeg)
+	![Clases (2)](https://user-images.githubusercontent.com/82491533/165222476-83703eaa-28f6-4411-8fe1-8adca735d58f.jpeg)
+
 

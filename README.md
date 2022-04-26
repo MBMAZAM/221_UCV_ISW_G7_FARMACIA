@@ -52,8 +52,7 @@ La farmacia "Botica RyG” no contaba con un sistema informático que coadyuve e
         4. Según Parra (2020), realizo una tesis titulada **"Diseño de un sistema de información para el control de inventario de medicamentos en farmacias colombianas"**. Su objetivo General es Diseñar un sistema de información utilizando arquitecturas de referencia con el fin de gestionar medicamentos en farmacias colombianas, también manejan objetivos especifico como Definir los requerimientos funcionales y no funcionales para determinar las necesidades del proceso de negocio utilizando técnicas de análisis de requerimientos. La metodología desarrollada en este trabajo se basa en diferentes pasos, los cuales se trabajaron de manera diferenciada y detallada para cumplir con los objetivos propuestos. Para finalizar se cumplió con el primer objetivo específico, el cual fue definir los requerimientos funcionales y no funcionales del sistema, teniendo en cuenta las diferentes acciones que realizara el sistema de información.
 
     5. 5.ORGANIGRAMA
-   	![Organigrama](https://user-images.githubusercontent.com/82491533/165212059-fd867d7a-2a12-453f-a6a4-cc0cac18049c.jpeg)
-    
+    ![Gerencia general](https://user-images.githubusercontent.com/71146984/162886042-04d6954b-4eb2-4009-890b-58b32dff254b.jpeg)
     
     1. 6.AMBITO DEL PROYECTO
        1. 6.1. Área 
@@ -108,9 +107,8 @@ La farmacia "Botica RyG” no contaba con un sistema informático que coadyuve e
        ![image](https://user-images.githubusercontent.com/103221118/163880828-cf0f014f-6e0a-41ad-b337-53659ddcbae2.png)
        
         ### Instalación base de datos:
-       ![base de datos](https://user-images.githubusercontent.com/103221118/165022234-1d0dea16-ae30-4958-9ede-370da5c8e4c4.png)
+       ![image](https://user-images.githubusercontent.com/103221118/163880893-3b605fb7-bc4f-4b69-b811-85d1a47e6460.png)
 
-       
   
       ### 1.6.5. Cronograma de Actividades
 
@@ -136,12 +134,13 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
 
            Identificativo|Nombre|Descripción
            :---:|:---:|:---:
-           **RF01**|Visualizar Ordenes|Necesito que el sistema permita visualizar las ordenes de productos
-           **RF02**|Visualizar Productos|necesito que el sistema permita visualizar los productos que estan disponibles
-           **RF03**|Registrar producto|Necesito que el sistema permita registrar la venta
-           **RF04**|Entregar factura o boleta|Necestio que el sistema permita entregar registro de factura o boleta.    
-           **RF05**|Editar o Eliminar producto|Necesito que el sistema permita editar o eliminar producto registrado
-	       **RF06**|Revisar Stock|Necesito que el sistema contabilice el stock que se tiene disponible de los productos
+           **RF01**|Registrar cliente|Necesito que el sistema registre al cliente
+           **RF02**|Visualizar Ordenes|Necesito que el sistema permita visualizar las ordenes de productos
+           **RF03**|Visualizar Productos|necesito que el sistema permita visualizar los productos que estan disponibles
+           **RF04**|Registrar venta|Necesito que el sistema permita registrar la venta
+           **RF05**|Entregar factura|Necestio que el sistema permita entregar registro de factura.
+           **RF06**|Visualizar Clientes|Necesito que el sistema permita visualizar los clientes registrados
+           **RF07**|Editar y Eliminar producto|Necesito que el sistema permita editar y eliminar producto registrado
 
       	  1. 1.2.   Cuadro de requerimientos no funcionales, indicando: identificativo, nombre y descripción.
 
@@ -161,28 +160,25 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
 
         Actor|Asignado a|Responsabilidad
         :---:|:---:|:----:
-        **Tecnica de Farmacia**|realizar la venta y registro de medicamento|Su responsabilidad es manejar el sistema directamenta para poder generar la venta.
+        **Tecnica de Farmacia**|realizar la venta, registro de medicamento y cliente|Su responsabilidad es manejar el sistema directamenta para poder generar la venta.
         **Administradora**|Gestionar y administrar|Su responsabilidad es mantener las cosas en orden y apoyo en la venta
 	2. 1.4.   Relación de casos de uso, cuadro indicando:
    
 
       Nro|Caso de uso|Descripción
-      :---:|:---:|:----:   
-      **CU01**|Buscar Medicamento|El sistema permitira el usuario buscar el medicamento solicitado
-      **CU02**|Visualizar Productos|El sistema permitira visualizar los productos que estan disponibles
-      **CU03**|Visualizar Ordenes|El sistema permitira visualizar las ordenes de productos
-      **CU04**|Entregar factura o boleta|El sistema permitirá al vendedor entregar registro de factura o boleta.
-      **CU05**|Revisar Inventario|El sistema permitira mostrar los productos del inventario
-      **CU06**|Registrar producto|El sistema permitirá registrar la venta para que sea guardado en la base de datos
-      **CU07**|Editar o Eliminar producto|El sistema permitirá editar o eliminar producto registrado
+      :---:|:---:|:----: 
+      **CU01**|Registrar cliente|El sistema permitirá registrar al cliente donde debe suministrar los datos
+      **CU02**|Visualizar Ordenes|El sistema permitira visualizar las ordenes de productos
+      **CU03**|Visualizar Productos|El sistema permitira visualizar los productos que estan disponibles
+      **CU04**|Registrar venta|El sistema permitirá registrar la venta para que sea guardado en la base de datos
+      **CU05**|Entregar factura|El sistema permitirá al vendedor entregar registro de factura.
+      **CU06**|Visualizar Clientes|El sistema permitirá visualizar los clientes registrados
+      **CU07**|Editar y Eliminar producto|El sistema permitirá editar y eliminar producto registrado
     
 
 	3. 1.5.   Modelo de Casos de Uso de Requerimientos.
 	
-	![Modelo-CUS (3)](https://user-images.githubusercontent.com/82491533/165018650-43823880-1179-44bf-b58c-73b4e8b86c89.jpeg)
-
-
-
+	![Modelo](https://user-images.githubusercontent.com/82491533/164886023-a17fe9ad-d083-4076-b9a2-b92e9b318196.jpeg)
 
 
 
@@ -192,33 +188,29 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
 
       Caso de uso|Descripción|Actor|Pre-Condición|Post-Condición
       :---:|:---:|:---:|:---:|:---:
-       **Buscar Medicamento**|El sistema permitirá la busqueda del medicamento|Administradora|Debe haber inventario de los medicamentos|Se observa si el producto esta en venta
-       **Visualizar Producto**|El sistema permitira visualizar los productos que estan disponibles|Tecnico de Farmacia|Tiene que estar registrado los productos en el inventario|Permite saber que producto tenemos
+      **Registrar Usuario**| El sistema permitirá registrar al usuario|Tecnico de Farmacia|Debe tener todos los datos del cliente|El cliente podra realizar el pago del producto
       **Visualizar Ordenes**|El sistema permitira visualizar las ordenes de productos|Tecnico de Farmacia|Debe haber una order realizada|Se podra ver los productos que han solicitado
+      **Visualizar Producto**|El sistema permitira visualizar los productos que estan disponibles|Tecnico de Farmacia|Tiene que estar registrado los productos en el inventario|Permite saber que producto tenemos
+      **Registrar Productos**|El sistema permitirá registrar nuevos productos|Administradora|Saber que productos se va registrar|Se podra vizualizar el producto nuevo
       **Entregar factura o boleta**|El sistema permitirá entregar registro de factura o boleta|Tecnico de Farmacia|Que el pedido hay sido cancelado|Entrega de factura o boleta de los productos comprados
-       **Revisar inventario**|El sistema permitira revisar el inventario|Administradora|Tiene que haber sido registrado por el tecnico de farmacia|Se podra visualizar todos las ordenes anteriores
-      **Registrar Productos**|El sistema permitirá registrar nuevos productos|Administradora|Saber que productos se va registrar|Se podra vizualizar el producto nuevo       **Editar o Eliminar Producto**|El sistema permitirá editar o eliminar producto registrado|Administradora|El producto debe estar en la orden del usuario|Se podra ver la modificacion o eliminación
-      **Revisar Stock**|El sistema permitirá revisar el stock de los productos|Administradora|El producto debe ser registrado con anterioridad|Se podra modificar el stock del sistema
-      
-     
-     
+      **Visualizar Usuarios**|El sistema permitirá visualizar los usuarios registrados|Tecnico de Farmacia|Debe haber usuarios registrados posteriormente|Despues se podra observar todos los usuarios registrados en el sistema
+      **Editar o Eliminar Producto**|El sistema permitirá editar o eliminar producto registrado|Administradora|El producto debe estar en la orden del usuario|Se podra ver la modificacion o eliminación
+      **Solicitar Medicamento**|El sistema permitirá la busqueda del medicamento|Administradora|Debe haber inventario de los medicamentos|Se observa si el producto esta en venta
+      **Revisar inventario vendido**|El sistema permitira revisar el inventario vendido|Administradora|Tiene que haber sido registrado por el tecnico de farmacia|Se podra visualizar todos las ordenes anteriores
 
       1. 1.7.Matriz de trazabilidad de los requerimientos y casos de uso.
          <br> <br>
          **Software de Venta de Medicamentos de una farmacia en Lima y Callao - 2022**
 
-          Requerimientos funciones |0|0|0|0|0|0|0|0|0|
-          :---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:
-          **---**|**RF01 →Buscar Medicamento**|**RF02 →Visualizar Producto**|**RF03 →Visualizar Ordenes**|**RF04 →Entregar factura o boleta**|**RF05 →Revisar inventario**|**RF06 →Registrar Productos**|**RF07 →Editar o Eliminar Producto**|**RF08 →Revisar Stock
-          **Identificar requisitos**|||||||||
-          **Analizar los requisitos**|||||||||
-          **Especificar los requisitos**||||||||
-          **Representar los requisitos**|||||||||
-           **Validar los requisitos**|||||||||
-          **Administrar los requisitos**|||||||||
+          Requerimientos funciones |0|0|0|0|0|0|0|0|
+          :---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:
+          **---**|**RF01 →Registrar Usuario**|**RF02 →Visualizar Ordenes**| **RF03 →Visualizar Producto**|**RF04 →Registrar Productos**|**RF05 →Entregar factura**|**RF06 →Visualizar Usuarios**|**RF07 →Visualizar Usuarios**| **RF08 →Editar o Eliminar Producto**|**RF09 →Revisar inventario vendido**
+          **Identificar requisitos**|x|||x||x||x
+          **Analizar los requisitos**|x|||x|||x|x
+          **Especificar los requisitos**|x|||x|||x
+          **Representar los requisitos**||x|||||x|x
+           **Validar los requisitos**||x|x||x|||x
+          **Administrar los requisitos**|x||x||x|||x
+
 
 	  1. 1.8. Modelo Conceptual de Clases.
-
-	![Clases](https://user-images.githubusercontent.com/82491533/165019786-790986e6-c01f-4957-aeb0-cce0287544fa.jpeg)
-
-

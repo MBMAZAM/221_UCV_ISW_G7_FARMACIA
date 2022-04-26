@@ -97,7 +97,7 @@ La farmacia "Botica RyG” no contaba con un sistema informático que coadyuve e
         * 10 GB de espacio disponible en disco duro
         * 5400 RPM de disco duro
         * Tarjeta de vídeo compatible con DirectX 9 o 10 con una ejecución de resolución 
-          de pantalla de 1024 x 768 o superior
+          de pantalla de 1024 x 768 o superior.
        </BR>
        
         ###  Pasos de la instalación y Configuración 

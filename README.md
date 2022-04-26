@@ -23,34 +23,53 @@
     
     # INDICE
 1.	ASPECTOS DE LA ORGANIZACIÓN
-1.1.  VISIÓN 
-	1.2   MISIÓN
-	1.3   OBJETIVOS
-	1.4   ANTECEDENTES
-	1.5   ORGANIGRAMA 
-1.6. AMBITO DEL PROYECTO 
-	1.6.1. Área (donde se va a aplicar el Proyecto )
-	1.6.2. Recursos Humanos (Necesarios para el Proyecto)
-	1.6.3. Software (Necesario para el Proyecto)
-	16.4. Hardware (Necesario para el Proyecto)
-	1.6.5. Cronograma de Actividades 
-2.	ASPECTOS DEL NEGOCIO
-	2.1 PROBLEMÁTICA ACTUAL ó ANÁLISIS SITUACIONAL
-3.	METODOLOGÍA
-3.1. Modelo de Requerimientos.
-	3.1.1.   Cuadro de requerimientos funcionales, indicando: identificativo, nombre y descripción.
-	3.1.2.   Cuadro de requerimientos no funcionales, indicando: identificativo, nombre y descripción.
-	3.1.3.   Relación de actores y su descripción, cuadro indicando
-Actor 	Asignado a 	Responsabilidades 
-	3.1.4.   Relación de casos de uso, cuadro indicando:
-Nro. 	Caso de uso 	Descripción 
-CU01 
-	3.1.5.   Modelo de Casos de Uso de Requerimientos.
-	3.1.6.   Plantilla de especificación de casos de uso.
-3.1.7.   Matriz de trazabilidad de los requerimientos y casos de uso 
-	3.1.8. Modelo Conceptual de Clases.
 
-    
+    1.1.  VISIÓN 
+
+    1.2   MISIÓN
+
+    1.3   OBJETIVOS
+
+
+    1.4   ANTECEDENTES
+
+    1.5   ORGANIGRAMA 
+
+    1.6. AMBITO DEL PROYECTO 
+
+    1.6.1. Área 
+
+    1.6.2. Recursos Humanos 
+
+    1.6.3. Software 
+
+    1.6.4. Hardware (Necesario para el Proyecto)
+
+    1.6.5. Cronograma de Actividades 
+
+2. ASPECTOS DEL NEGOCIO
+
+    2.1 PROBLEMÁTICA ACTUAL ó ANÁLISIS SITUACIONAL
+
+3. METODOLOGÍA
+
+    3.1. Modelo de Requerimientos.
+
+     3.1.1.   Cuadro de requerimientos funcionales
+
+     3.1.2.   Cuadro de requerimientos no funcionales
+
+     3.1.3.   Relación de actores y su descripciónindicando
+
+     3.1.4.   Relación de casos de uso
+
+     3.1.5.   Modelo de Casos de Uso de Requerimientos.
+
+     3.1.6.   Plantilla de especificación de casos de uso.
+
+     3.1.7.   Matriz de trazabilidad de los requerimientos y casos de uso 
+
+    3.1.8. Modelo Conceptual de Clases.
 
 # INTRODUCCIÓN
 

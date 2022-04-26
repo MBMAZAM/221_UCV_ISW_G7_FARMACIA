@@ -283,9 +283,9 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
 	
 	3.2. Análisis Orientado a Objetos. 
 	
-	    3.2.1. Modelo de Análisis 
+	  3.2.1. Modelo de Análisis 
 
-	       3.3.1.1. Diagrama de Análisis de Clases 
+	  3.3.1.1. Diagrama de Análisis de Clases 
 
 	![Analisis](https://user-images.githubusercontent.com/82491533/165406901-ece2d12e-e662-495f-9946-e1e6d46f5750.jpeg)
 

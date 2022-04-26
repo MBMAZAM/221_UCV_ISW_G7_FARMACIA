@@ -141,7 +141,7 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
            **RF03**|Registrar producto|Necesito que el sistema permita registrar la venta
            **RF04**|Entregar factura o boleta|Necestio que el sistema permita entregar registro de factura o boleta.    
            **RF05**|Editar o Eliminar producto|Necesito que el sistema permita editar o eliminar producto registrado
-	   **RF06**|Revisar Stock|Necesito que el sistema contabilice el stock que se tiene disponible de los productos
+	       **RF06**|Revisar Stock|Necesito que el sistema contabilice el stock que se tiene disponible de los productos
 
       	  1. 1.2.   Cuadro de requerimientos no funcionales, indicando: identificativo, nombre y descripción.
 

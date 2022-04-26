@@ -56,16 +56,16 @@ La farmacia "Botica RyG” no contaba con un sistema informático que coadyuve e
     
     
     1. 6.AMBITO DEL PROYECTO
-       1. 6.1. Área 
+       **1. 6.1. Área** 
        
        Botica RyG Pharma, en el distrito de Comas-Lima-Lima.
        
-       1. 6.2. Recursos Humanos
+       **1. 6.2. Recursos Humanos**
        
        Estudiantes de la Universidad César Vallejo, Ingeniería de Sistemas del quinto ciclo.
 
-       |Nombre y Apellido|Cargo|
-       |:---:|:---:|
+        |Nombre y Apellido|Cargo|
+        |:---:|:---:|
         |Juarez Morales Miguel Alonso|Jefe de proyectos/Desarrollador|
         |Maza Huamani Mauricio Brayar|Editor/Diseñador/Desarrollador|
         |Ibáñez Del Aguila, Kriss Zuzú|Analista/Desarrollador|
@@ -86,10 +86,10 @@ La farmacia "Botica RyG” no contaba con un sistema informático que coadyuve e
         * SQL ACTIVO + APACHE ACTIVO
 
        ### 1. 6.4. Hardware
-        ### Arquitecturas compatibles
+       ### Arquitecturas compatibles
         * 32 bits (x86)
         * 64 bits (x64)
-         ### Requisitos de hardware
+       ### Requisitos de hardware
         * Procesador Dual Core de 3,0 GHz o superior
         * 4 GB de memoria RAM (1,5 GB si se ejecuta en una máquina virtual)
         * 10 GB de espacio disponible en disco duro
@@ -118,8 +118,6 @@ La farmacia "Botica RyG” no contaba con un sistema informático que coadyuve e
 
 	
 
-
-
    
 2. ASPECTOS DEL NEGOCIO
 
@@ -141,7 +139,7 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
            **RF03**|Registrar producto|Necesito que el sistema permita registrar la venta
            **RF04**|Entregar factura o boleta|Necestio que el sistema permita entregar registro de factura o boleta.    
            **RF05**|Editar o Eliminar producto|Necesito que el sistema permita editar o eliminar producto registrado
-	   **RF06**|Revisar Stock|Necesito que el sistema contabilice el stock que se tiene disponible de los productos
+	       **RF06**|Revisar Stock|Necesito que el sistema contabilice el stock que se tiene disponible de los productos
 
       	  1. 1.2.   Cuadro de requerimientos no funcionales, indicando: identificativo, nombre y descripción.
 
@@ -187,7 +185,7 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
 
 
 
-    1. 1.6.   Plantilla de especificación de casos de uso.
+    3. 1.6.   Plantilla de especificación de casos de uso.
 
 
       Caso de uso|Descripción|Actor|Pre-Condición|Post-Condición
@@ -203,21 +201,21 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
      
      
 
-      1. 1.7.Matriz de trazabilidad de los requerimientos y casos de uso.
+      3. 1.7.Matriz de trazabilidad de los requerimientos y casos de uso.
          <br> <br>
          **Software de Venta de Medicamentos de una farmacia en Lima y Callao - 2022**
 
           Requerimientos funciones |0|0|0|0|0|0|0|0|0|
           :---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:
           **---**|**RF01 →Buscar Medicamento**|**RF02 →Visualizar Producto**|**RF03 →Visualizar Ordenes**|**RF04 →Entregar factura o boleta**|**RF05 →Revisar inventario**|**RF06 →Registrar Productos**|**RF07 →Editar o Eliminar Producto**|**RF08 →Revisar Stock
-          **Identificar requisitos**|||||||||
-          **Analizar los requisitos**|||||||||
-          **Especificar los requisitos**||||||||
-          **Representar los requisitos**|||||||||
-           **Validar los requisitos**|||||||||
-          **Administrar los requisitos**|||||||||
+          **Identificar requerimientos**|x|-|-|x|-|x|-|x
+          **Analizar los requerimientos**|x|-|-|x|-|-|x|x
+          **Especificar los requerimientos**|x|-|-|x|-|-|x|-
+          **Representar los requerimientos**|-|x|-|-|-|-|x|x
+          **Validar los requerimientos**|-|x|x|-|x|-|-|x
+          **Administrar los requerimientos**|x|-|x||x|-|-|x
 
-	  1. 1.8. Modelo Conceptual de Clases.
+	  3. 1.8. Modelo Conceptual de Clases.
 
 	![Clases](https://user-images.githubusercontent.com/82491533/165019786-790986e6-c01f-4957-aeb0-cce0287544fa.jpeg)
 

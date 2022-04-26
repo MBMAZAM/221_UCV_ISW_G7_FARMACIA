@@ -69,7 +69,14 @@
 
      3.1.7.   Matriz de trazabilidad de los requerimientos y casos de uso 
 
-    3.1.8. Modelo Conceptual de Clases.
+     3.1.8. Modelo Conceptual de Clases.
+    
+    3.2. Análisis Orientado a Objetos. 
+	3.2.1. Modelo de Análisis 
+		3.3.1.1. Diagrama de Análisis de Clases 
+
+
+
 
 # INTRODUCCIÓN
 
@@ -270,6 +277,13 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
 
 	  3. 1.8. Modelo Conceptual de Clases.
 
-	![Clases (2)](https://user-images.githubusercontent.com/82491533/165222476-83703eaa-28f6-4411-8fe1-8adca735d58f.jpeg)
+	![Modelo (2)](https://user-images.githubusercontent.com/82491533/165406887-1a694f1c-7eca-4475-9d9f-6e004e4dca2a.jpeg)
+
+	
+	3.2. Análisis Orientado a Objetos. 
+	3.2.1. Modelo de Análisis 
+		3.3.1.1. Diagrama de Análisis de Clases 
+
+	![Analisis](https://user-images.githubusercontent.com/82491533/165406901-ece2d12e-e662-495f-9946-e1e6d46f5750.jpeg)
 
 

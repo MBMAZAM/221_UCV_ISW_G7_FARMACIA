@@ -213,4 +213,9 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
           **Administrar los requisitos**|x||x||x|||x
 
 
+
 	  1. 1.8. Modelo Conceptual de Clases.
+
+	![Clases](https://user-images.githubusercontent.com/82491533/165217683-31df914a-4d99-4e48-889e-450720ba3f91.jpeg)
+
+

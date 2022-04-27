@@ -130,7 +130,7 @@ La farmacia "Botica RyG” no contaba con un sistema informático que coadyuve e
         |Ibáñez Del Aguila, Kriss Zuzú|Analista/Desarrollador|
         |Encalada Jara Debbis santi|Desarrollador/Desarrollador|
         |Jara Salazar Rodolfo Efrain|Calidad/Desarrollador|
-        |Guerra Sulca Jordyn Junior|Desarrollador|
+        |Guerra Sulca Jordyn Junior|Base de Datos/Desarrollador|
 
        
        </BR>

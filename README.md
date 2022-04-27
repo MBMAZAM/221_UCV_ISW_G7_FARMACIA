@@ -143,11 +143,20 @@ La farmacia "Botica RyG” no contaba con un sistema informático que coadyuve e
         * Windows 10 (x86 y x64)
         * XAMPP CONTROL PANEL
         * SQL ACTIVO + APACHE ACTIVO
-
+        * lenguage de programacion visual estudio code con php v7 
+        * Modelador del negocio : Enterprise arquitec
+        
+         ### Base de datos
+	  
+	 * mysql v 5.1 puesto en la nube 
+	 
+       </BR>
+       
        ### 1. 6.4. Hardware
        ### Arquitecturas compatibles
         * 32 bits (x86)
         * 64 bits (x64)
+        
        ### Requisitos de hardware
         * Procesador Dual Core de 3,0 GHz o superior
         * 4 GB de memoria RAM (1,5 GB si se ejecuta en una máquina virtual)

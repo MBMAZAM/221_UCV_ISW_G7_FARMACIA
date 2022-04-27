@@ -4,7 +4,7 @@
 # **FACULTAD DE INGENIERÍA Y ARQUITECTURA ESCUELA PROFESIONAL DE INGENIERÍA DE SISTEMAS**
 
 
-## Software de Venta de Medicamentos de la farmacia R&G en Lima y Callao - 2022
+## Software de Venta de Medicamentos de la farmacia R&G en Comas - 2022
 <br><br>
 ### DOCENTE: RICHARD LEONARDO BERROCAL NAVARRO
 ### ORCID: 0000-0001-8718-3150  <br><br>

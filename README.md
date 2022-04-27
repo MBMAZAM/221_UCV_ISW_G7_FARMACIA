@@ -264,7 +264,7 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
 
       3. 1.7.Matriz de trazabilidad de los requerimientos y casos de uso.
          <br> <br>
-         **Software de Venta de Medicamentos de una farmacia en Lima y Callao - 2022**
+         **Software de Venta de Medicamentos de una farmacia en Comas - 2022**
 
           Requerimientos funciones |0|0|0|0|0|0|0|0|0|
           :---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:

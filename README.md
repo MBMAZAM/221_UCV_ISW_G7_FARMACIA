@@ -173,7 +173,8 @@ La farmacia "Botica RyG” no contaba con un sistema informático que coadyuve e
   
       ### 1.6.5. Cronograma de Actividades
 
-	![Actividades (2)](https://user-images.githubusercontent.com/82491533/165222754-4a77520a-d5fb-44df-bdc3-701ec7db9cd5.jpeg)
+	![Actividades (3)](https://user-images.githubusercontent.com/82491533/165419312-4e9fb5b5-3bb6-4029-9a8e-80f91921f113.jpeg)
+
 
 
 	

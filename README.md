@@ -72,8 +72,10 @@
      3.1.8. Modelo Conceptual de Clases.
     
     3.2. Análisis Orientado a Objetos. 
+    
 	3.2.1. Modelo de Análisis 
-		3.3.1.1. Diagrama de Análisis de Clases 
+
+	 3.3.1.1. Diagrama de Análisis de Clases 
 
 
 

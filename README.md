@@ -300,5 +300,10 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
 	  3.3.1.1. Diagrama de Análisis de Clases 
 
 	![Analisis](https://user-images.githubusercontent.com/82491533/165406901-ece2d12e-e662-495f-9946-e1e6d46f5750.jpeg)
+	
+	
+	Prototipo.
+	![Prototipo](https://user-images.githubusercontent.com/82491533/166402611-020e3a35-5285-4ea7-98ac-b563520118b6.jpeg)
+
 
 

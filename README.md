@@ -206,12 +206,15 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
 
            Identificativo|Nombre|Descripción
            :---:|:---:|:---:
-           **RF01**|Visualizar Ordenes|Necesito que el sistema permita visualizar las ordenes de productos
-           **RF02**|Visualizar Productos|necesito que el sistema permita visualizar los productos que estan disponibles
-           **RF03**|Registrar producto|Necesito que el sistema permita registrar la venta
-           **RF04**|Entregar factura o boleta|Necestio que el sistema permita entregar registro de factura o boleta.    
-           **RF05**|Editar o Eliminar producto|Necesito que el sistema permita editar o eliminar producto registrado
-	       **RF06**|Revisar Stock|Necesito que el sistema contabilice el stock que se tiene disponible de los productos
+           **RF01**|Buscar Medicamento|Necesito que el sistema busque el medicamento que se ha ingresando
+           **RF02**|Listar Productos|Necesito que el sistema permita mostrar la lista de productos que estan disponibles
+           **RF03**|Consultar Ventas|Necesito que el sistema consulte las ventas que se han realizado
+           **RF04**|Entregar factura o boleta|Necestio que el sistema permita entregar registro de factura o boleta.
+           **RF05**|Agregar Compra|Necesito que el sistema agregué los productos al carrito de compras 
+           **RF06**|Revisar Inventario|Necesito que el sistema muestre los productos que estan en venta
+           **RF07**|Editar o Eliminar producto|Necesito que el sistema permita editar o eliminar producto registrado
+           **RF08**|Registrar producto|Necesito que el sistema permita registrar la venta
+           **RF09**|Revisar Stock|Necesito que el sistema contabilice el stock que se tiene disponible de los productos   
 
       	  1. 1.2.   Cuadro de requerimientos no funcionales, indicando: identificativo, nombre y descripción.
 
@@ -233,21 +236,24 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
         :---:|:---:|:----:
         **Tecnica de Farmacia**|realizar la venta y registro de medicamento|Su responsabilidad es manejar el sistema directamenta para poder generar la venta.
         **Administradora**|Gestionar y administrar|Su responsabilidad es mantener las cosas en orden y apoyo en la venta
-	2. 1.4.   Relación de casos de uso, cuadro indicando:
+	1. 1.4.   Relación de casos de uso, cuadro indicando:
    
 
       Nro|Caso de uso|Descripción
       :---:|:---:|:----:   
-      **CU01**|Buscar Medicamento|El sistema permitira el usuario buscar el medicamento solicitado
-      **CU02**|Visualizar Productos|El sistema permitira visualizar los productos que estan disponibles
-      **CU03**|Visualizar Ordenes|El sistema permitira visualizar las ordenes de productos
-      **CU04**|Entregar factura o boleta|El sistema permitirá al vendedor entregar registro de factura o boleta.
-      **CU05**|Revisar Inventario|El sistema permitira mostrar los productos del inventario
-      **CU06**|Registrar producto|El sistema permitirá registrar la venta para que sea guardado en la base de datos
-      **CU07**|Editar o Eliminar producto|El sistema permitirá editar o eliminar producto registrado
+      **CU01**|Buscar Medicamento|El sistema permitirá el usuario buscar el medicamento solicitado.
+      **CU02**|Listar Productos|El sistema permitirá mostrar la lista de productos que estan disponibles
+      **CU03**|Consultar Ventas|El sistema va consultar las ventas que se han realizado.
+      **CU04**|Agregar Compra|El sistema agregará los productos al carrito de compras.
+      **CU05**|Entregar factura o boleta|El sistema permitirá al vendedor entregar registro de factura o boleta.
+      **CU06**|Revisar Inventario|El sistema permitira mostrar los productos del inventario.
+      **CU07**|Registrar producto|El sistema permitirá registrar la venta para que sea guardado en la base de datos.
+      **CU08**|Editar o Eliminar producto|El sistema permitirá editar o eliminar producto registrado.
+      **CU09**|Revisar Stock|El sistema contabilizara el stock que se tiene disponible de los productos   
+
     
 
-	3. 1.5.   Modelo de Casos de Uso de Requerimientos.
+	2. 1.5.   Modelo de Casos de Uso de Requerimientos.
 	
 	![Modelo-CUS (3)](https://user-images.githubusercontent.com/82491533/165018650-43823880-1179-44bf-b58c-73b4e8b86c89.jpeg)
 

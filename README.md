@@ -255,7 +255,8 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
 
 	2. 1.5.   Modelo de Casos de Uso de Requerimientos.
 	
-	![Modelo-CUS (3)](https://user-images.githubusercontent.com/82491533/165018650-43823880-1179-44bf-b58c-73b4e8b86c89.jpeg)
+	![Modelo-CUS](https://user-images.githubusercontent.com/82491533/167234215-a69adfff-8d08-4443-8c84-2ce70af812f7.jpeg)
+
 
 
 

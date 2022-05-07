@@ -269,8 +269,9 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
       Caso de uso|Descripción|Actor|Pre-Condición|Post-Condición
       :---:|:---:|:---:|:---:|:---:
        **Buscar Medicamento**|El sistema permitirá la busqueda del medicamento|Administradora|Debe haber inventario de los medicamentos|Se observa si el producto esta en venta
-       **Visualizar Producto**|El sistema permitira visualizar los productos que estan disponibles|Tecnico de Farmacia|Tiene que estar registrado los productos en el inventario|Permite saber que producto tenemos
-      **Visualizar Ordenes**|El sistema permitira visualizar las ordenes de productos|Tecnico de Farmacia|Debe haber una order realizada|Se podra ver los productos que han solicitado
+       **Listar Producto**|El sistema permitira listar los productos que estan disponibles|Tecnico de Farmacia|Tiene que estar registrado los productos en el inventario|Permite saber que producto tenemos
+      **Consultar Ventas**|El sistema permitira consultar las ventas de los productos|Tecnico de Farmacia|Debe haber una order realizada|Se podra ver los productos que han solicitado
+      **Agregar Compra**|El sistema permitirá entregar la compra solicitada por el cliente|Tecnico de Farmacia|Que los productos esten en stock.
       **Entregar factura o boleta**|El sistema permitirá entregar registro de factura o boleta|Tecnico de Farmacia|Que el pedido hay sido cancelado|Entrega de factura o boleta de los productos comprados
        **Revisar inventario**|El sistema permitira revisar el inventario|Administradora|Tiene que haber sido registrado por el tecnico de farmacia|Se podra visualizar todos las ordenes anteriores
       **Registrar Productos**|El sistema permitirá registrar nuevos productos|Administradora|Saber que productos se va registrar|Se podra vizualizar el producto nuevo       **Editar o Eliminar Producto**|El sistema permitirá editar o eliminar producto registrado|Administradora|El producto debe estar en la orden del usuario|Se podra ver la modificacion o eliminación
@@ -283,15 +284,15 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
          <br> <br>
          **Software de Venta de Medicamentos de una farmacia en Comas - 2022**
 
-          Requerimientos funciones |0|0|0|0|0|0|0|0|0|
-          :---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:
-          **---**|**RF01 →Buscar Medicamento**|**RF02 →Visualizar Producto**|**RF03 →Visualizar Ordenes**|**RF04 →Entregar factura o boleta**|**RF05 →Revisar inventario**|**RF06 →Registrar Productos**|**RF07 →Editar o Eliminar Producto**|**RF08 →Revisar Stock
-          **Identificar requerimientos**|x|-|-|x|-|x|-|x
-          **Analizar los requerimientos**|x|-|-|x|-|-|x|x
-          **Especificar los requerimientos**|x|-|-|x|-|-|x|-
-          **Representar los requerimientos**|-|x|-|-|-|-|x|x
-          **Validar los requerimientos**|-|x|x|-|x|-|-|x
-          **Administrar los requerimientos**|x|-|x||x|-|-|x
+          Requerimientos funciones |0|0|0|0|0|0|0|0|0
+          :---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:--:|
+          **---**|**RF01 →Buscar Medicamento**|**RF02 →Listar Producto**|**RF03 →Consultar Ventas**|**RF04 →Agregar Compra**|**RF05 →Entregar factura o boleta**|**RF06 →Revisar inventario**|**RF07 →Registrar Productos**|**RF08 →Editar o Eliminar Producto**|**RF09 →Revisar Stock**
+          **Identificar requerimientos**    |x|-|-||x|-|x|-|x
+          **Analizar los requerimientos**   |x|-|-||x|-|-|x|x
+          **Especificar los requerimientos**|x|-|-||x|-|-|x|-
+          **Representar los requerimientos**|-|x|-||-|-|-|x|x
+          **Validar los requerimientos**    |-|x|x||-|x|-|-|x
+          **Administrar los requerimientos**|x|-|x|||x|-|-|x
 
 	  3. 1.8. Modelo Conceptual de Clases.
 

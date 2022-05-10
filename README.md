@@ -175,7 +175,8 @@ La farmacia "Botica RyG” no contaba con un sistema informático que coadyuve e
         ###  Pasos de la instalación y Configuración 
        ![11](https://user-images.githubusercontent.com/103221118/167733200-9a9a33c7-ab0d-4209-9b12-4c1f2fe5417a.png)
 
-      
+      ![333](https://user-images.githubusercontent.com/103221118/167734704-60afe63f-241f-43eb-8ce7-3d5f761da459.png)
+
        
         ### Instalación base de datos:
        

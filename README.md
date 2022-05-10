@@ -143,14 +143,14 @@ La farmacia "Botica RyG” no contaba con un sistema informático que coadyuve e
 	 
         * Windows 7 (x86 y x64)
         * Windows 10 (x86 y x64)
-        * XAMPP CONTROL PANEL
-        * SQL ACTIVO + APACHE ACTIVO
-        * lenguage de programacion visual estudio code con php v7 
-        * Modelador del negocio : Enterprise arquitec
+        * XAMPP CONTROL PANEL (SQL ACTIVO + APACHE) v3.3.0
+        * lenguage de programacion visual estudio code con php v7.0 
+        * Modelador del negocio : Enterprise arquitec 15
+        * Navegadores Chrome, Firefox
         
          ### Base de datos
 	  
-	 * mysql v 5.1 puesto en la nube 
+	 * mysql v 8.0 en google cloud
 	 
        </BR>
        

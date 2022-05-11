@@ -273,7 +273,7 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
        **Buscar Medicamento**|El sistema permitirá la busqueda del medicamento|Administradora|Debe haber inventario de los medicamentos|Se observa si el producto esta en venta
        **Listar Producto**|El sistema permitira listar los productos que estan disponibles|Tecnico de Farmacia|Tiene que estar registrado los productos en el inventario|Permite saber que producto tenemos
       **Consultar Ventas**|El sistema permitira consultar las ventas de los productos|Tecnico de Farmacia|Debe haber una order realizada|Se podra ver los productos que han solicitado
-      **Agregar Compra**|El sistema permitirá entregar la compra solicitada por el cliente|Tecnico de Farmacia|Que los productos esten en stock.
+      **Agregar Compra**|El sistema permitirá entregar la compra solicitada por el cliente|Tecnico de Farmacia|Que los productos esten en stock.| Se agregara las ventas al carrito de compras
       **Entregar factura o boleta**|El sistema permitirá entregar registro de factura o boleta|Tecnico de Farmacia|Que el pedido hay sido cancelado|Entrega de factura o boleta de los productos comprados
        **Revisar inventario**|El sistema permitira revisar el inventario|Administradora|Tiene que haber sido registrado por el tecnico de farmacia|Se podra visualizar todos las ordenes anteriores
       **Registrar Productos**|El sistema permitirá registrar nuevos productos|Administradora|Saber que productos se va registrar|Se podra vizualizar el producto nuevo       **Editar o Eliminar Producto**|El sistema permitirá editar o eliminar producto registrado|Administradora|El producto debe estar en la orden del usuario|Se podra ver la modificacion o eliminación

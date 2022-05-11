@@ -288,7 +288,7 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
 
           Requerimientos funciones |0|0|0|0|0|0|0|0|0
           :---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:--:|
-          **---**|**RF01 →Buscar Medicamento**|**RF02 →Listar Producto**|**RF03 →Consultar Ventas**|**RF04 →Agregar Compra**|**RF05 →Entregar factura o boleta**|**RF06 →Revisar inventario**|**RF07 →Registrar Productos**|**RF08 →Editar o Eliminar Producto**|**RF09 →Revisar Stock**|**RF10 → Agregar Compra**
+          **---**|**RF01 →Buscar Medicamento**|**RF02 →Listar Producto**|**RF03 →Consultar Ventas**|**RF04 →Agregar Compra**|**RF05 →Entregar factura o boleta**|**RF06 →Revisar inventario**|**RF07 →Registrar Productos**|**RF08 →Editar o Eliminar Producto**|**RF09 →Revisar Stock**|**RF10 → Agregar Compra**|
           **Identificar requerimientos**    |x|-|-||x|-|x|-|x|x
           **Analizar los requerimientos**   |x|-|-||x|-|-|x|x|x
           **Especificar los requerimientos**|x|-|-||x|-|-|x|-|x

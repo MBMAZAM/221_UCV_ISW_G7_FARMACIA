@@ -294,7 +294,7 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
           **Especificar los requerimientos**|x|-|-|x|x|-|-|x|-|x
           **Representar los requerimientos**|-|x|-|-|-|-|-|x|x|-
           **Validar los requerimientos**    |-|x|x|x|-|x|-|-|x|x
-          **Administrar los requerimientos**|x|-|x|-||x|-|-|x|-
+          **Administrar los requerimientos**|x|-|x|-|-|x|-|-|x|-
 
 	  3. 1.8. Modelo Conceptual de Clases.
 

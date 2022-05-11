@@ -226,7 +226,7 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
             **RNF03**|Escalabilidad|El sistema debe poderse ampliar en cuanto al desarrollo para permitir avances futuros en el software.
             **RNF04**|Rendimiento|El sistema debe de ser capaz de mantener la velocidad de respuesta aun cuando este se encuentre con muchas solicitudes.
             **RNF05**|Usabilidad|La interacción del usuario con el sistema debe ser lo más intuitiva posible, siendo de manera que este no necesite ayuda para hacer uso del mismo, y que le dé una experiencia agradable de uso.
-            **RNF06**|XAMPP|Utilizaremos la herramienta XAMPP para poder abrir el programa.
+            **RNF06**|Google Cloud|Utilizaremos la herramienta Google Cloud para la base de datos
             **RNF07**|PHP|El sistema esta elevadorado en lenguaje PHP.
 
 

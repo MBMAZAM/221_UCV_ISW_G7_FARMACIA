@@ -181,14 +181,16 @@ La farmacia "Botica RyG” no contaba con un sistema informático que coadyuve e
 	 
         * Windows 7 (x86 y x64)
         * Windows 10 (x86 y x64)
-        * XAMPP CONTROL PANEL
-        * SQL ACTIVO + APACHE ACTIVO
-        * lenguage de programacion visual estudio code con php v7 
-        * Modelador del negocio : Enterprise arquitec
+        ### Otras herramientas a usar
+	
+        * lenguage de programacion visual estudio code con php v7.0 
+        * Modelador del negocio : Enterprise arquitec 15
+        * Navegadores Chrome, Firefox
+        * Cuenta en Google cloud
         
          ### Base de datos
 	  
-	 * mysql v 5.1 puesto en la nube 
+	 * mysql v 8.0 en google cloud
 	 
        </BR>
        
@@ -204,21 +206,20 @@ La farmacia "Botica RyG” no contaba con un sistema informático que coadyuve e
         * 5400 RPM de disco duro
         * Tarjeta de vídeo compatible con DirectX 9 o 10 con una ejecución de resolución 
           de pantalla de 1024 x 768 o superior.
+	* Tarjeta de red 10/100mbs
+	  
        </BR>
        
         ###  Pasos de la instalación y Configuración 
-       
-       ![image](https://user-images.githubusercontent.com/103221118/163880621-bcc2f2c8-4bc6-49c5-aad2-6851ed9ca4c7.png)
-       ![image](https://user-images.githubusercontent.com/103221118/163880667-d44b9035-44a8-454e-8c1a-0a25ab5d6b61.png)
-       ![image](https://user-images.githubusercontent.com/103221118/163880693-1b9e2e28-4f55-4c9f-a9fe-350045cf55d8.png)
-       ![image](https://user-images.githubusercontent.com/103221118/163880735-4aac17af-d94c-4fe9-8ed3-07e4e493fec9.png)
-       ![image](https://user-images.githubusercontent.com/103221118/163880783-f3da02a1-df8e-4eab-a523-b8322e561897.png)
-       ![image](https://user-images.githubusercontent.com/103221118/163880828-cf0f014f-6e0a-41ad-b337-53659ddcbae2.png)
-       
-        ### Instalación base de datos:
-       ![base de datos](https://user-images.githubusercontent.com/103221118/165022234-1d0dea16-ae30-4958-9ede-370da5c8e4c4.png)
+       ![11](https://user-images.githubusercontent.com/103221118/167733200-9a9a33c7-ab0d-4209-9b12-4c1f2fe5417a.png)
+
+      ![333](https://user-images.githubusercontent.com/103221118/167734704-60afe63f-241f-43eb-8ce7-3d5f761da459.png)
 
        
+        ### Instalación base de datos:
+       
+       ![222](https://user-images.githubusercontent.com/103221118/167733300-47ac3c21-7bed-4364-aa23-570ba7489c77.png)
+
   
       ### 1.6.5. Cronograma de Actividades
 
@@ -263,7 +264,7 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
             **RNF03**|Escalabilidad|El sistema debe poderse ampliar en cuanto al desarrollo para permitir avances futuros en el software.
             **RNF04**|Rendimiento|El sistema debe de ser capaz de mantener la velocidad de respuesta aun cuando este se encuentre con muchas solicitudes.
             **RNF05**|Usabilidad|La interacción del usuario con el sistema debe ser lo más intuitiva posible, siendo de manera que este no necesite ayuda para hacer uso del mismo, y que le dé una experiencia agradable de uso.
-            **RNF06**|XAMPP|Utilizaremos la herramienta XAMPP para poder abrir el programa.
+            **RNF06**|Google Cloud|Utilizaremos la herramienta Google Cloud para la base de datos
             **RNF07**|PHP|El sistema esta elevadorado en lenguaje PHP.
 
 
@@ -293,7 +294,8 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
 
 	2. 1.5.   Modelo de Casos de Uso de Requerimientos.
 	
-	![Modelo-CUS (3)](https://user-images.githubusercontent.com/82491533/165018650-43823880-1179-44bf-b58c-73b4e8b86c89.jpeg)
+	![Modelo-CUS](https://user-images.githubusercontent.com/82491533/167234215-a69adfff-8d08-4443-8c84-2ce70af812f7.jpeg)
+
 
 
 
@@ -309,7 +311,7 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
        **Buscar Medicamento**|El sistema permitirá la busqueda del medicamento|Administradora|Debe haber inventario de los medicamentos|Se observa si el producto esta en venta
        **Listar Producto**|El sistema permitira listar los productos que estan disponibles|Tecnico de Farmacia|Tiene que estar registrado los productos en el inventario|Permite saber que producto tenemos
       **Consultar Ventas**|El sistema permitira consultar las ventas de los productos|Tecnico de Farmacia|Debe haber una order realizada|Se podra ver los productos que han solicitado
-      **Agregar Compra**|El sistema permitirá entregar la compra solicitada por el cliente|Tecnico de Farmacia|Que los productos esten en stock.
+      **Agregar Compra**|El sistema permitirá entregar la compra solicitada por el cliente|Tecnico de Farmacia|Que los productos esten en stock.| Se agregara las ventas al carrito de compras
       **Entregar factura o boleta**|El sistema permitirá entregar registro de factura o boleta|Tecnico de Farmacia|Que el pedido hay sido cancelado|Entrega de factura o boleta de los productos comprados
        **Revisar inventario**|El sistema permitira revisar el inventario|Administradora|Tiene que haber sido registrado por el tecnico de farmacia|Se podra visualizar todos las ordenes anteriores
       **Registrar Productos**|El sistema permitirá registrar nuevos productos|Administradora|Saber que productos se va registrar|Se podra vizualizar el producto nuevo       **Editar o Eliminar Producto**|El sistema permitirá editar o eliminar producto registrado|Administradora|El producto debe estar en la orden del usuario|Se podra ver la modificacion o eliminación
@@ -325,12 +327,12 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
           Requerimientos funciones |0|0|0|0|0|0|0|0|0
           :---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:--:|
           **---**|**RF01 →Buscar Medicamento**|**RF02 →Listar Producto**|**RF03 →Consultar Ventas**|**RF04 →Agregar Compra**|**RF05 →Entregar factura o boleta**|**RF06 →Revisar inventario**|**RF07 →Registrar Productos**|**RF08 →Editar o Eliminar Producto**|**RF09 →Revisar Stock**
-          **Identificar requerimientos**    |x|-|-||x|-|x|-|x
-          **Analizar los requerimientos**   |x|-|-||x|-|-|x|x
-          **Especificar los requerimientos**|x|-|-||x|-|-|x|-
-          **Representar los requerimientos**|-|x|-||-|-|-|x|x
-          **Validar los requerimientos**    |-|x|x||-|x|-|-|x
-          **Administrar los requerimientos**|x|-|x|||x|-|-|x
+          **Identificar requerimientos**    |x|-|-|x|x|-|x|-|x|x
+          **Analizar los requerimientos**   |x|-|-|x|x|-|-|x|x|x
+          **Especificar los requerimientos**|x|-|-|x|x|-|-|x|-|x
+          **Representar los requerimientos**|-|x|-|-|-|-|-|x|x|-
+          **Validar los requerimientos**    |-|x|x|x|-|x|-|-|x|x
+          **Administrar los requerimientos**|x|-|x|-|-|x|-|-|x|-
 
 	  3. 1.8. Modelo Conceptual de Clases.
 

@@ -405,6 +405,21 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
 
 
       3.3.2.2. Diseño de Reportes 
+      
+       Reporte de inventario
+       
+       
+       ![image](https://user-images.githubusercontent.com/103221118/171271745-743e77db-2fcc-4f34-a863-7f291a935323.png)
+      
+      
+      
+       Reporte de venta
+       
+       
+       
+       ![image](https://user-images.githubusercontent.com/103221118/171271795-ceaa9dad-4e79-49d1-bec4-8d8b4f8e1703.png)
+
+
 
 
       3.3.3. Diagrama de la capa presentación 

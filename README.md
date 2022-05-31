@@ -353,9 +353,15 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
 
     **Diagramas de Secuencia**
 
+      ![Secuencia](https://user-images.githubusercontent.com/82491533/171261479-c6190b58-6006-4ab3-ba0f-fa11082480c8.jpeg)
+
+
     **Diagramas de Colaboración**
 
-      3.2.2. Lista de Clases de Interfaz.
+     ![Comunicacion](https://user-images.githubusercontent.com/82491533/171261580-eeee9672-096c-44a3-a04a-9ffefc318444.jpeg)
+
+
+     3.2.2. Lista de Clases de Interfaz.
 
       Nro.|Interfaz|Descripción
       :---:|:---:|:---:|
@@ -377,40 +383,63 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
 
       3.2.5. Modelo Lógico de Clases 
 
+      ![Estado](https://user-images.githubusercontent.com/82491533/171261760-c4726436-55d1-4002-9126-51588a30e020.jpeg)
 
 
       3.3. DISEÑO ORIENTADO A OBJETOS.
 
-       3.3.1. Modelo Físico 
+      3.3.1. Modelo Físico 
 
-	   3.3.1.1. Creación de Esquema y Tablas
+	  3.3.1.1. Creación de Esquema y Tablas
 
-       3.3.2. Estructura Modular del SWOO 
+      ![E-R](https://user-images.githubusercontent.com/82491533/171263651-6f453bc1-cbc4-449d-94b9-7f0f2e18956b.jpeg)
 
-	   3.3.2.1. Diseño de Ventanas 
+
+      3.3.2. Estructura Modular del SWOO 
+
+	  3.3.2.1. Diseño de Ventanas 
+
 
     Prototipo.
 	   ![Prototipo](https://user-images.githubusercontent.com/82491533/166402611-020e3a35-5285-4ea7-98ac-b563520118b6.jpeg)
 
 
-       3.3.2.2. Diseño de Reportes 
+      3.3.2.2. Diseño de Reportes 
 
 
-       3.3.3. Diagrama de la capa presentación 
+      3.3.3. Diagrama de la capa presentación 
 
-       3.3.4. Diagramas de la Capa de Negocio
 
-       3.3.4. Diagramas de la Capa de Negocio
+     ![Presentacion](https://user-images.githubusercontent.com/82491533/171263835-ddeab89b-7f96-4b4e-b350-33f143abe16c.jpeg)
 
-       3.3.5. Diagrama de la Capa de Servicio
 
-       3.3.6. Diagramas de Componentes
+      3.3.4. Diagramas de la Capa de Negocio
 
-       3.3.7. Diagramas de Distribución
+     ![Negocio](https://user-images.githubusercontent.com/82491533/171264053-93e93c2a-ee18-409c-a124-4ebfa7068ec5.jpeg)
 
-       CONCLUSIONES Y RECOMENDACIONES 
 
-       BIBLIOGRAFÍA
+      3.3.5. Diagrama de la Capa de Datos
+
+      ![Datos](https://user-images.githubusercontent.com/82491533/171264450-1ab8ee3a-10b3-40ea-9915-645bb6c51289.jpeg)
+
+
+      3.3.6. Diagrama de la Capa de Servicio
+
+      ![Servicio](https://user-images.githubusercontent.com/82491533/171264581-1471d192-5c6a-4b73-b588-20644c3c2f7b.jpeg)
+
+
+      3.3.7. Diagramas de Componentes
+
+      ![Componentes](https://user-images.githubusercontent.com/82491533/171264655-27c4a8bf-935c-4241-a38c-b0dd4c05af8c.jpeg)
+
+
+      3.3.8. Diagramas de Distribución
+
+
+
+      CONCLUSIONES Y RECOMENDACIONES 
+
+      BIBLIOGRAFÍA
 
 
 

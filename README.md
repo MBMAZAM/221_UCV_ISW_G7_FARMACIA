@@ -401,7 +401,16 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
 
 
     Prototipo.
-	   ![Prototipo](https://user-images.githubusercontent.com/82491533/166402611-020e3a35-5285-4ea7-98ac-b563520118b6.jpeg)
+    
+    Login :
+    
+    ![image](https://user-images.githubusercontent.com/103221118/171274783-39113597-65b0-440f-9a05-56ef461c060b.png)
+      
+    
+    INICIO:
+       
+     
+     ![Prototipo](https://user-images.githubusercontent.com/82491533/166402611-020e3a35-5285-4ea7-98ac-b563520118b6.jpeg)
 
 
       3.3.2.2. Diseño de Reportes 

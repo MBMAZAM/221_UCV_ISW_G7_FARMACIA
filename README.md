@@ -77,6 +77,44 @@
 
 	 3.3.1.1. Diagrama de Análisis de Clases 
 
+     3.3.1.2. Diagramas de Secuencia y Colaboración de Análisis
+
+    3.2.2. Lista de Clases de Interfaz.
+
+    3.2.4. Lista de Clases de Control.
+
+    3.2.5. Lista de Clases de Entidades.
+
+    3.2.5. Modelo Logico de Clases 
+
+    3.3. DISEÑO ORIENTADO A OBJETOS .
+
+    3.3.1. Modelo Físico 
+
+	 3.3.1.1. Creación de Esquema y Tablas
+
+	3.3.2. Estructura Modular del SWOO 
+
+	 3.3.2.1. Diseño de Ventanas 
+
+	 3.3.2.2. Diseño de Reportes 
+
+	3.3.3. Diagrama de la capa presentación 
+
+    3.3.4. Diagramas de la Capa de Negocio
+
+    3.3.5. Diagrama de la Capa de Datos 
+
+    3.3.6. Diagramas de Componentes
+
+     3.3.7. Diagramas de Distribución
+
+CONCLUSIONES Y RECOMENDACIONES 
+
+BIBLIOGRAFÍA
+
+
+
 
 
 
@@ -309,8 +347,83 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
 	![Analisis](https://user-images.githubusercontent.com/82491533/165406901-ece2d12e-e662-495f-9946-e1e6d46f5750.jpeg)
 	
 	
-	Prototipo.
-	![Prototipo](https://user-images.githubusercontent.com/82491533/166402611-020e3a35-5285-4ea7-98ac-b563520118b6.jpeg)
+      3.3.1.2. Diagramas de Secuencia y Colaboración de Análisis
+
+    **Diagramas de Secuencia**
+
+    **Diagramas de Colaboración**
+
+      3.2.2. Lista de Clases de Interfaz.
+
+      Nro.|Interfaz|Descripción
+      :---:|:---:|:---:|
+      ITO1|Buscar Medicamento|La interfaz realiza la búsqueda de los medicamentos solicitados por el cliente
+      ITO2|Agregar Producto|La interfaz agrega los productos para que se pueda visualizar en el sistema
+
+      3.2.4. Lista de Clases de Control. 
+
+      Nro.|Controles|Descripción
+      :---:|:---:|:---:|
+      CO01|Gestionar Boleta|Genera la boleta de los medicamentos, donde se visualizan, el precio y cantidad
+
+      3.2.5. Lista de Clases de Entidades. 
+
+      Nro.|Entidad|Descripción
+      :---:|:---:|:---:|
+      EN01|Pedido|Es un documento emitido por el cliente para solicitar mercancías al Técnico de Farmacia.
+      EN02|Pedido_Terminado|Es un documento donde se registran los pedidos culminados y listo para la entrega
+
+      3.2.5. Modelo Lógico de Clases 
+
+
+
+      3.3. DISEÑO ORIENTADO A OBJETOS.
+
+       3.3.1. Modelo Físico 
+
+	   3.3.1.1. Creación de Esquema y Tablas
+
+       3.3.2. Estructura Modular del SWOO 
+
+	   3.3.2.1. Diseño de Ventanas 
+
+    Prototipo.
+	   ![Prototipo](https://user-images.githubusercontent.com/82491533/166402611-020e3a35-5285-4ea7-98ac-b563520118b6.jpeg)
+
+
+       3.3.2.2. Diseño de Reportes 
+
+
+       3.3.3. Diagrama de la capa presentación 
+
+       3.3.4. Diagramas de la Capa de Negocio
+
+       3.3.4. Diagramas de la Capa de Negocio
+
+       3.3.5. Diagrama de la Capa de Servicio
+
+       3.3.6. Diagramas de Componentes
+
+       3.3.7. Diagramas de Distribución
+
+       CONCLUSIONES Y RECOMENDACIONES 
+
+       BIBLIOGRAFÍA
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+	
 
 
 

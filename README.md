@@ -466,6 +466,7 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
 
       3.3.8. Diagramas de Distribución
 
+      ![Distribución](https://user-images.githubusercontent.com/82491533/171318781-c27fbfc1-dcc3-4614-abf9-a7cb19b1dfdc.jpeg)
 
 
       CONCLUSIONES Y RECOMENDACIONES 

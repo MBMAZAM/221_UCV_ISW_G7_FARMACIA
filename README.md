@@ -359,6 +359,11 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
     **Diagramas de Colaboración**
 
      ![Comunicacion](https://user-images.githubusercontent.com/82491533/171261580-eeee9672-096c-44a3-a04a-9ffefc318444.jpeg)
+     
+     
+     **Diagrama de Estado**
+     
+      ![Estado](https://user-images.githubusercontent.com/82491533/171261760-c4726436-55d1-4002-9126-51588a30e020.jpeg)
 
 
      3.2.2. Lista de Clases de Interfaz.
@@ -383,7 +388,9 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
 
       3.2.5. Modelo Lógico de Clases 
 
-      ![Estado](https://user-images.githubusercontent.com/82491533/171261760-c4726436-55d1-4002-9126-51588a30e020.jpeg)
+      
+      ![Modelo](https://user-images.githubusercontent.com/82491533/171314663-8306f1d3-e819-489f-a51e-2c6c8e350ecd.jpeg)
+
 
 
       3.3. DISEÑO ORIENTADO A OBJETOS.
@@ -415,18 +422,18 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
 
       3.3.2.2. Diseño de Reportes 
       
-       Reporte de inventario
+      Reporte de inventario
        
        
-       ![image](https://user-images.githubusercontent.com/103221118/171271745-743e77db-2fcc-4f34-a863-7f291a935323.png)
+      ![image](https://user-images.githubusercontent.com/103221118/171271745-743e77db-2fcc-4f34-a863-7f291a935323.png)
       
       
       
-       Reporte de venta
+      Reporte de venta
        
        
        
-       ![image](https://user-images.githubusercontent.com/103221118/171271795-ceaa9dad-4e79-49d1-bec4-8d8b4f8e1703.png)
+      ![image](https://user-images.githubusercontent.com/103221118/171271795-ceaa9dad-4e79-49d1-bec4-8d8b4f8e1703.png)
 
 
 

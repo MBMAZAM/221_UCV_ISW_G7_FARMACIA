@@ -463,15 +463,7 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
 
       CONCLUSIONES Y RECOMENDACIONES 
       
-      El presente capítulo tiene como objetivo presentar las conclusiones finales del proyecto realizado con el fin de determinar los parámetros, métodos y normativa utilizada para cada procedimiento descrito previamente permitiendo obtener resultados confiables y satisfactorios. Además, se propone un método sistemático para la botica RYG
-
-
-     •Llevar a cabo el desarrollo de este proyecto con la ayuda de formatos "Check List" permitirá un avance sistemático y eficaz, facilitando la realización de cada proceso para una buena fabricación 
-
-     ●El desarrollo de este proyecto servirá como guía práctica para la venta de medicamentos, brindando un modelo respaldado por normas y especificaciones válidas dentro del mercado de la comercialización de medicamentos.
-
-
-     ●El método que se tiene de las capacitaciones constantes para que el personal tenga la capacidad adecuada, se realiza con éxito sea   personales nuevos o antiguos.
+      En el trabajo tenemos un concepto bien claro, las conclusiones es un papel muy importante en nuestro proyecto, el cual es btener resultados confiables y satisfactorios. Además, se propone un método sistemático y holistico para la botica RYG, teniendo en cuenta la participacion equitativa de cada uno de los compañeros, tambien Llevaremos a cabo el desarrollo de este proyecto con la ayuda de formatos "Check List" permitirá un avance sistemático y eficaz, facilitando la realización de cada proceso para una buena fabricación , a su vez este proyecto servirá como guía práctica para la venta de medicamentos, brindando un modelo respaldado por normas y especificaciones válidas dentro del mercado de la comercialización de medicamentosy para terminar es el método que se tiene de las capacitaciones constantes para que el personal tenga la capacidad adecuada, se realiza con éxito sea  personales nuevos o antiguos.
 
 
       BIBLIOGRAFÍA

@@ -438,7 +438,8 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
       
       
       
-      ![reporte ventas](https://user-images.githubusercontent.com/82491533/178614047-20c5c67c-37af-4861-9b01-6bcefd0c4eab.png)
+     ![reporte ventas](https://user-images.githubusercontent.com/82491533/178614972-f873f4ce-1b2b-460a-9b92-3463bac85420.jpeg)
+
       
       
       

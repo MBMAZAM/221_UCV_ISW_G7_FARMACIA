@@ -411,13 +411,15 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
     
     Login :
     
-    ![image](https://user-images.githubusercontent.com/103221118/171274783-39113597-65b0-440f-9a05-56ef461c060b.png)
+     ![teresa](https://user-images.githubusercontent.com/82491533/178613881-7a61b09b-23fc-4f28-8bfb-9e7686747bc1.png)
+
       
     
     INICIO:
        
      
-     ![Prototipo](https://user-images.githubusercontent.com/82491533/166402611-020e3a35-5285-4ea7-98ac-b563520118b6.jpeg)
+    ![principal](https://user-images.githubusercontent.com/82491533/178613907-d88ee8ba-1575-4be2-a6f7-8619a659f73d.png)
+
 
 
       3.3.2.2. Diseño de Reportes 
@@ -425,15 +427,24 @@ De acuerdo con lo investigado, se planteamos un diseño de un modelo de un siste
       Reporte de inventario
        
        
-      ![image](https://user-images.githubusercontent.com/103221118/171271745-743e77db-2fcc-4f34-a863-7f291a935323.png)
-      
-      
+      ![inventario](https://user-images.githubusercontent.com/82491533/178613933-b7482e52-1a5a-46dc-b3f7-7c18bc1f64b1.png)
+
+      	
       
       Reporte de venta
        
        
-       
-      ![image](https://user-images.githubusercontent.com/103221118/171271795-ceaa9dad-4e79-49d1-bec4-8d8b4f8e1703.png)
+      ![ventas](https://user-images.githubusercontent.com/82491533/178614036-5bbc8b8a-a9c3-47cb-ae0d-6ea443e589be.png)
+      
+      
+      
+      ![reporte ventas](https://user-images.githubusercontent.com/82491533/178614047-20c5c67c-37af-4861-9b01-6bcefd0c4eab.png)
+      
+      
+      
+      ![ListaProducto](https://user-images.githubusercontent.com/82491533/178614057-dd3a7c9e-0c3b-49c4-b04f-2fe247d29cbf.png)
+
+
 
 
 
